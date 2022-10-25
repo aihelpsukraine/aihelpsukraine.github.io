@@ -1,8 +1,20 @@
 # https://fontawesome.com/
 # https://jpswalsh.github.io/academicons/
 - name: Twitter
-  link: https://twitter.com/ai_unique
+  link: https://twitter.com/aihelpsukraine
   icon:
     source: fa
     name: fa-twitter
+    type: fab
+- name: Facebook
+  link: https://facebook.com/aihelpsukraine
+  icon:
+    source: fa
+    name: fa-facebook
+    type: fab
+- name: Instagram
+  link: https://instagram.com/aihelpsukraine
+  icon:
+    source: fa
+    name: fa-instagram
     type: fab
