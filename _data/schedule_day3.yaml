@@ -1,9 +1,9 @@
 - name: Registration
   time_start: "08:30"
   time_end: "09:00"
-- name: Series of talks
+- name: Short talks
   time_start: "09:00"
-  time_end: "10:45"
+  time_end: "11:15"
   title: "GFlowNets for scientific discovery"
 - name: Talk
   time_start: "09:00"
@@ -21,43 +21,50 @@
   time_start: "09:45"
   time_end: "10:00"
   title: "Molecular conformation"
-- name: Talk
+- name: Break
   time_start: "10:00"
   time_end: "10:15"
-  title: "Materials discovery"
 - name: Talk
   time_start: "10:15"
   time_end: "10:30"
-  title: "Causal discovery"
+  title: "Materials discovery"
 - name: Talk
   time_start: "10:30"
   time_end: "10:45"
-  title: "Combinatorial optimisation"
-- name: Break
+  title: "Causal discovery"
+- name: Talk
   time_start: "10:45"
   time_end: "11:00"
-- name: Tutorial
+  title: "Combinatorial optimisation"
+- name: Talk
   time_start: "11:00"
+  time_end: "11:15"
+  title: "Language models"
+- name: Break
+  time_start: "11:15"
+  time_end: "11:30"
+- name: Talk
+  time_start: "11:30"
   time_end: "12:30"
-  title: "GFlowNets Clinic: what it is for and what it is not"
+  title: "Evaluation metrics for GFlowNets"
 - name: Lunch
   time_start: "12:30"
-  time_end: "13:30"
+  time_end: "14:00"
 - name: Tutorial
-  time_start: "13:30"
-  time_end: "14:30"
+  time_start: "14:00"
+  time_end: "15:00"
   title: "Live coding of a GFlowNet environment"
 - name: Break
-  time_start: "14:30"
-  time_end: "14:45"
-- name: Talk
-  time_start: "14:45"
-  time_end: "16:00"
-  title: "Evaluation metrics for GFlowNets"
+  time_start: "15:00"
+  time_end: "15:15"
+- name: Interactive
+  time_start: "15:15"
+  time_end: "16:30"
+  title: "GFlowNets Clinic: what it is for and what it is not"
 - name: Break
-  time_start: "16:00"
-  time_end: "16:15"
+  time_start: "16:30"
+  time_end: "16:45"
 - name: Talk
-  time_start: "16:15"
-  time_end: "17:00"
+  time_start: "16:45"
+  time_end: "17:30"
   title: "Open problems and future perspective"
