@@ -1,7 +1,8 @@
 - name: Registration
   time_start: "08:30"
   time_end: "09:00"
-- name: Opening Remarks
+- name: Talk
+  title: "Opening Remarks"
   time_start: "09:00"
   time_end: "09:30"
   speaker: Yoshua Bengio
