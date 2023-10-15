@@ -33,7 +33,7 @@
   - Recursion
   nametitle: Dr.
   position: Senior Machine Learning Scientist
-  bio: ""
+  bio: "Emmanuel Bengio is a Sr ML Scientist at Valence Labs, working on the intersection of GFlowNets and de-novo drug design. He did his PhD under Joelle Pineau and Doina Precup at McGill/Mila, focusing on understanding generalization in deep RL."
   photo: eb.jpg
   alttext: Dr. Emmanuel Bengio
   title: "Introduction to GFlowNets: Part 1"
@@ -53,7 +53,7 @@
   - DIRO, Université de Montréal
   nametitle: Dr.
   position: Postdoctoral Fellow
-  bio: ""
+  bio: "Nikolay Malkin is a postdoctoral researcher at Mila – Québec AI Institute and Université de Montréal. His research interests include probabilistic inference algorithms for structured latent variables, induction of compositional structure in generative models, and applications to vision and language modeling. He received his PhD in mathematics from Yale University in 2021 and therefore views human-like symbolic and formal reasoning as a long-term aspiration for AI systems."
   photo: nm.jpg
   alttext: Dr. Nikolay Malkin
   title: "Introduction to GFlowNets: Part 2"
@@ -91,7 +91,7 @@
   - DIRO, Université de Montréal
   nametitle: 
   position: PhD Student
-  bio: ""
+  bio: "Moksh Jain is a PhD student at Mila and Université de Montréal supervised by Yoshua Bengio. His research deals with questions around probabilistic inference and experimental design using tools from deep learning, with a focus on applications to accelerate scientific discovery."
   photo: mj.jpg
   alttext: Moksh Jain
   title: "Parameterization and Conditioning"
@@ -126,11 +126,11 @@
   - DIRO, Université de Montréal
   nametitle: 
   position: PhD Student
-  bio: ""
+  bio: "Salem Lahlou is a last year PhD candidate at Mila (Université de Montréal) under the supervision of Yoshua Bengio. His research interests includes reinforcement learning, uncertainty estimation, and probabilistic modelling. Recently, he has been involved in the theory of generative flow networks (GFlowNets). Prior to his PhD, he studied applied mathematics in École Polytechnique and statistical learning in ENS Paris-Saclay, he did research in game theory and operations research in IBM Research Singapore, and worked as a data scientist in Booking.com in Amsterdam."
   photo: salem_lahlou.png
   alttext: Salem Lahlou
   title: "Continuous GFlowNets"
-  abstract: ""
+  abstract: "In this talk, we will delve into the mathematical tools required for generalizing GFlowNets to continuous, or mixed discrete-continuous, state spaces. We will see how the resulting algorithms apply to different settings, including stochastic control and Bayesian structure learning."
   session: day2
   date: 20231109
   time: "15:30"
