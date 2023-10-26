@@ -138,3 +138,21 @@
     - name: Website
       link: https://saleml.github.io/
   skip: False
+
+- fullname: Joseph Viviano
+  affiliations:
+  - Mila, Quebec AI Institute
+  nametitle: 
+  position: ML Scientist
+  bio: "Joseph Viviano is a ML Scientist at Mila, working on tool development for AI for science applications, and applications of GFlowNets in drug discovery. He holds degrees in Psychology, Biology, and Computer Science."
+  photo: jv.jpg
+  alttext: Joseph Viviano
+  title: "Hands-on: Training GFlowNets"
+  abstract: "The hands-on sessions will focus on building understanding of the practical side of implementing GFlowNets."
+  session: day2
+  date: 20231109
+  time: "11:30"
+  tags:
+    - name: Website
+      link: https://www.viviano.ca/
+  skip: False
