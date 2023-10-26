@@ -1,36 +1,37 @@
 - name: Registration
-  time_start: "08:30"
-  time_end: "09:00"
-- name: Talk
   time_start: "09:00"
   time_end: "09:45"
-  title: "Introduction to Probability"
 - name: Talk
   time_start: "09:45"
   time_end: "10:30"
-  title: "Probabilistic Modeling"
+  title: "Introduction to Probability"
+  speaker: Vitória Barin Pacela
 - name: Break
   time_start: "10:30"
   time_end: "11:00"
 - name: Talk
   time_start: "11:00"
   time_end: "11:45"
-  title: "Probabilistic Inference"
+  title: "Probabilistic Modeling"
+  speaker: Tristan Deleu
 - name: Talk
   time_start: "11:45"
   time_end: "12:30"
-  title: "Sampling Methods"
+  title: "Probabilistic Inference"
+  speaker: Sébastien Lachapelle
 - name: Lunch
   time_start: "12:30"
   time_end: "14:00"
 - name: Talk
   time_start: "14:00"
   time_end: "14:45"
-  title: "Introduction to Reinforcement Learning"
+  title: "Sampling Methods"
+  speaker: Pablo Lemos
 - name: Talk
   time_start: "14:45"
   time_end: "15:30"
-  title: "TBD"
+  title: "Sampling with Reinforcement Learning"
+  speaker: Padideh Nouri
 - name: Break
   time_start: "15:30"
   time_end: "16:00"
@@ -38,3 +39,4 @@
   time_start: "16:00"
   time_end: "17:00"
   title: "Practical Session"
+  speaker: Alexandra Volokhova
