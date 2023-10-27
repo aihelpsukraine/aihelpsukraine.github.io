@@ -30,9 +30,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">he/him</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -58,9 +58,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">she/her</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -88,9 +88,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">she/her</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -116,9 +116,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">he/him</p>
-						<p class="subtitle is-6">Recursion</p> 
+						<p class="subtitle is-6">Recursion</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -146,9 +146,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">he/him</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -174,9 +174,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">she/her</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -204,9 +204,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">he/him</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -232,9 +232,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">he/him</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -262,9 +262,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">he/him</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -290,9 +290,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">he/him</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -308,7 +308,7 @@ permalink: /organizers
                         </figure>
                       </div>
                       <div class="media-content">
-                        <p class="title is-4">Victor Schimidt
+                        <p class="title is-4">Victor Schmidt
                             <a href="https://vict0rs.ch/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
@@ -320,9 +320,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">he/him</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
@@ -348,9 +348,9 @@ permalink: /organizers
                             </a>
                         </p>
                         <p class="subtitle is-6">he/him</p>
-						<p class="subtitle is-6">Mila, Université de Montréal</p> 
+						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
-                    </div>  
+                    </div>
                   </div>
                 </div>
            </td>
