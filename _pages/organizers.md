@@ -85,8 +85,8 @@ permalink: /organizers
                             </a>
                             <a href="">
                                 <ion-icon name="logo-twitter"></ion-icon>
-                            </a>
-                        </p> -->
+                            </a> -->
+                        </p>
                         <p class="subtitle is-6">she/her</p>
 						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
