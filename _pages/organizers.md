@@ -22,7 +22,7 @@ permalink: /organizers
                             <a href="https://alexhernandezgarcia.github.io">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="alex.hernandez-garcia@mila.quebec">
+                            <a href="mailto:alex.hernandez-garcia@mila.quebec">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
                             <a href="https://twitter.com/alexhdezgcia">
@@ -50,7 +50,7 @@ permalink: /organizers
                             <a href="https://alexandravolokhova.github.io">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="alexandra.volokhova@mila.quebec">
+                            <a href="mailto:alexandra.volokhova@mila.quebec">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
                             <a href="https://twitter.com/alex_volokhova">
@@ -80,13 +80,13 @@ permalink: /organizers
                             <a href="https://mila.quebec/personne/emanuelle-boutin-gilbert/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <!-- <a href="">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
                             <a href="">
                                 <ion-icon name="logo-twitter"></ion-icon>
                             </a>
-                        </p>
+                        </p> -->
                         <p class="subtitle is-6">she/her</p>
 						<p class="subtitle is-6">Mila, Université de Montréal</p>
                       </div>
@@ -104,16 +104,16 @@ permalink: /organizers
                         </figure>
                       </div>
                       <div class="media-content">
-                        <p class="title is-4">Emmanule Bengio
+                        <p class="title is-4">Emmanuel Bengio
                             <a href="https://folinoid.com/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <!-- <a href="">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
                             <a href="">
                                 <ion-icon name="logo-twitter"></ion-icon>
-                            </a>
+                            </a> -->
                         </p>
                         <p class="subtitle is-6">he/him</p>
 						<p class="subtitle is-6">Recursion</p>
@@ -138,12 +138,12 @@ permalink: /organizers
                             <a href="https://www.viviano.ca/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <!-- <a href="">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
                             <a href="">
                                 <ion-icon name="logo-twitter"></ion-icon>
-                            </a>
+                            </a> -->
                         </p>
                         <p class="subtitle is-6">he/him</p>
 						<p class="subtitle is-6">Mila, Université de Montréal</p>
@@ -166,12 +166,12 @@ permalink: /organizers
                             <a href="https://ling-pan.github.io/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="penny.ling.pan@gmail.com">
+                            <a href="mailto:penny.ling.pan@gmail.com">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <!-- <a href="">
                                 <ion-icon name="logo-twitter"></ion-icon>
-                            </a>
+                            </a> -->
                         </p>
                         <p class="subtitle is-6">she/her</p>
 						<p class="subtitle is-6">Mila, Université de Montréal</p>
@@ -196,12 +196,12 @@ permalink: /organizers
                             <a href="https://mila.quebec/personne/mathieu-bourgey/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <!-- <a href="">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
                             <a href="">
                                 <ion-icon name="logo-twitter"></ion-icon>
-                            </a>
+                            </a> -->
                         </p>
                         <p class="subtitle is-6">he/him</p>
 						<p class="subtitle is-6">Mila, Université de Montréal</p>
@@ -224,12 +224,12 @@ permalink: /organizers
                             <a href="https://mj10.github.io/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <!-- <a href="">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
                             <a href="">
                                 <ion-icon name="logo-twitter"></ion-icon>
-                            </a>
+                            </a> -->
                         </p>
                         <p class="subtitle is-6">he/him</p>
 						<p class="subtitle is-6">Mila, Université de Montréal</p>
@@ -254,12 +254,12 @@ permalink: /organizers
                             <a href="https://malkin1729.github.io/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <!-- <a href="">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
                             <a href="">
                                 <ion-icon name="logo-twitter"></ion-icon>
-                            </a>
+                            </a> -->
                         </p>
                         <p class="subtitle is-6">he/him</p>
 						<p class="subtitle is-6">Mila, Université de Montréal</p>
@@ -282,12 +282,12 @@ permalink: /organizers
                             <a href="https://tristandeleu.github.io/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <!-- <a href="">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
                             <a href="">
                                 <ion-icon name="logo-twitter"></ion-icon>
-                            </a>
+                            </a> -->
                         </p>
                         <p class="subtitle is-6">he/him</p>
 						<p class="subtitle is-6">Mila, Université de Montréal</p>
@@ -312,10 +312,10 @@ permalink: /organizers
                             <a href="https://vict0rs.ch/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <a href="mailto:schmidtv@mila.quebec">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <a href="https://twitter.com/vict0rsch/">
                                 <ion-icon name="logo-twitter"></ion-icon>
                             </a>
                         </p>
@@ -340,12 +340,12 @@ permalink: /organizers
                             <a href="https://yoshuabengio.org/">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
-                            <a href="">
+                            <!-- <a href="">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </a>
                             <a href="">
                                 <ion-icon name="logo-twitter"></ion-icon>
-                            </a>
+                            </a> -->
                         </p>
                         <p class="subtitle is-6">he/him</p>
 						<p class="subtitle is-6">Mila, Université de Montréal</p>
