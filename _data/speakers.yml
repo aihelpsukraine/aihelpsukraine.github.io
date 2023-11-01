@@ -255,14 +255,17 @@
   - Mila, Quebec AI Institute
   nametitle:
   position: PhD student
-  bio: ""
+  bio: "I am a 3rd year PhD student at Mila, supervised by Laurent Charlin and Dhanya Sridhar. I'm interested in active learning, uncertainty quantification and learning causal relations using machine learning."
   photo: mizu_nishikawa-toomey.jpg
   alttext: Mizu Nishikawa-Toomey
   title: "Causal discovery"
-  abstract: ""
+  abstract: "We propose Variational Bayes GFlowNet for learning the distribution over causal structures and mechanism parameters."
   session: day3
   date: 20231110
   time: "10:30"
+  tags:
+    - name: Website
+      link: https://mizunt1.github.io/
   skip: False
 
 - fullname: Dinghuai Zhang
