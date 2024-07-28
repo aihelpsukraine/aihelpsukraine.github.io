@@ -8,7 +8,7 @@ permalink: /coc_fr
   <a href="/coc.html">Read in English</a>
 </div>
 
-# AI Helps Ukraine Code de conduite
+# Harms and Risks of AI in the Military Workshop Code de conduite
 Afin d’avoir des échanges sains et agréables tout au long the cet événement, il est essential que chaque participant.e lise et suive le présent Code de conduite du symposium AI Helps Ukraine. Puisque le symposium AI Helps Ukraine applique une politique stricte de tolérance zéro, les participant.e.s qui ne respecteront pas le présent Code de conduite seront banni.e.s ou expulsé.e.s de l’événement, de la même façon qu’ils ou elles seraient expulsé.e.s d’un événement en présentiel.
 
 Le principal concept soutenant le présent Code de conduite est le respect. Le respect peut prendre une multitude de formes:

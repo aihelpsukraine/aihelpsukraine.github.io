@@ -3,7 +3,7 @@ layout: page-floatbutton
 title: Team
 permalink: /team
 ---
-AI Helps Ukraine is organized by volunteer students and friends from [Mila](https://mila.quebec). We are deeply concerned by the impacts of the war in Ukraine on research institutes and medical treatments. Many students and researchers in Ukraine are affected by war and cannot continue their work - their loss is our loss as a global community. These are the organisers (in random order):
+Harms and Risks of AI in the Military Workshop is organized by volunteer students and academics from [Mila](https://mila.quebec). These are the organisers (in random order):
 
 {% assign people = site.data.team | sample: site.data.team.size %}
 {% for person in people %}

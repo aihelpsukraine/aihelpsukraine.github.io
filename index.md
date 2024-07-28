@@ -1,11 +1,11 @@
 ---
 layout: page-floatbutton
-title: AI Helps Ukraine - Charity Conference
-subtitle: A charity conference on AI to raise funds for medical and humanitarian aid for Ukraine
+title: Harms and Risks of AI in the Military
+subtitle: A cross-disciplinary workshop fostering an open and inclusive discussion on the harms and risks of using AI for military purposes
 toc: false
 ---
 
-Click on the bottom left button below to stay tuned about the online talks and more, and if you want to join us in person on 8th Dec at Mila, Montreal, click on the right button to get your ticket on Eventbrite!
+Click on the bottom left button below if you want to join us in person on 1st Dec at Mila, Montreal, click on the right button if you would like to submit an abstract to our workshop
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 
@@ -16,11 +16,9 @@ Click on the bottom left button below to stay tuned about the online talks and m
 # What
 
 <img src="{{ site.logo }}" style="width:300px;vertical-align:middle;padding-right:30px;padding-bottom:30px;float:left">
-AI Helps Ukraine is a charity conference for raising funds to support Ukrainians facing the severe humanitarian crisis. We bring together [the leading experts of AI](./speakers) to present recent advances in the field and attract attention of the AI community to those who are in urgent need.
+A cross-disciplinary workshop, which aims to create a space for an honest and inclusive discussion about the harms and risks associated with the use of AI research advances for military applications and the associated AI arms race, challenges to regulate it, its implications on human rights, marginalized communities, global inequality, and global security; and strategies to regulate military AI to mitigate these harms and risks. We would like to bring together experts from the fields of AI, humanitarian disarmament, AI governance, social justice, human rights advocates, geopolitics and game theory of arms races, as well as people who are or were once involved in military applications of AI, to discuss together challenges, potential strategies and the role of AI researchers in AI demilitarization.
 
-The conference consists of two parts: a series of online talks taking place online **in November - December 2022** and an in-person full-day conference happening on **December 8th 2022** at [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
-
-Participation is free and everyone is welcome to donate according to their possibilities. **All** contributions will be used to support Ukraine with medical and humanitarian aid.
+The conference consists of a a series of talks taking place on ** December 1st 2024** in-person at [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
 
 ---
 
@@ -32,61 +30,18 @@ Participation is free and everyone is welcome to donate according to their possi
 
 # Why
 
-Russian invasion of Ukraine has caused a grave humanitarian crisis destroying civilian infrastructure and forcing millions of people to leave their homes seeking safety and protection. According to [UNHCR](https://www.unhcr.org/ukraine-emergency.html), more than 7.2 million of Ukrainians had to flee from the war abroad and more than 6.9 million were displaced within the country since 24 February 2022. Many of them are still located close to the conflict zones and remain in need of food, hygiene, warm clothes and shelters. Together with infrastructure, medicine supply chains were broken and these days Ukrainian hospitals are lacking not only specialized medicines and machines but even essential basics, such as toilet paper and medical gloves.
 
-Some of our team members learned about this disastrous situation first hand, from their friends and families in Ukraine. As AI researches and world citizens, it became unthinkable for us to continue doing our work without making every effort to help people in Ukraine. Therefore, we are organising a fundraising charity conference asking the broad international AI community to give a hand to those in dire need. We do believe that our collective efforts can make a real difference and save lives.
-
----
-
-# Who we support
-
-Interview with the National Cancer Institute of Ukraine & the Ukraine Medical Support in Canada:
-
-<iframe style="width: 35vw; height: calc(35vw/1.77)" src="https://www.youtube-nocookie.com/embed/YRyQrpMmVOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="width: 35vw; height: calc(35vw/1.77)" src="https://www.youtube-nocookie.com/embed/0VzF0L8HDMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Read more about [who we support here](./who_we_support).
-
-{% if site.data.settings.showBar %}
----
-
-# Donations
-
-{% include donation-bar-section.html %}
-{% endif %}
-
----
-
-# How
-
-### How do we use donations?
-
-We are collecting donations to purchase and deliver medicines and supplies for people living in destroyed areas and oncological patients in Ukraine. Together with our partners, we buy and ship the most essential things directly to Ukraine.
-
-### How do we know what is needed in Ukraine right now?
-
-We and our partners are in close contact with hospitals and charities in Ukraine, which provide first-hand information about the current vital necessities of people in the area. One of our major aid recipients is the National Cancer Institute of Ukraine, the largest hospital and research institute treating oncological patients in Ukraine.
-
-### How do we deliver supplies to Ukraine?
-
-Our main partner is [Ukraine Medical Support](https://uams.ca/about-us/), a Canadian-based non-profit organisation, which helps us with the logistics and shipment process. They have access to a warehouse in Canada and in Ukraine, and they are in contact with organisations inside Ukraine to pick up the material and do the shipments.
-
-### How can you get involved?
-
-We are looking for the following donations: money, medicines and equipment. We encourage tech and pharma companies, as well as individuals, to donate whatever they can (money or supplies) to support vulnerable people in Ukraine.
+The growing interest of military agencies in adopting AI technologies raises concerns about the harms and risks posed by such AI applications with respect to safety, human rights, marginalized communities, conflict escalations and global security.  In this workshop, we aim to bridge the gap between the AI research community and experts in military AI regulations. Our workshop will foster a multidisciplinary discussion about the harms and risks related to the use of AI research advances for military applications. Invited speakers will introduce the audience to the topics of AI arms race, challenges in military AI regulations, implications on human rights and global inequality; as well as strategies for mitigating these risks.
 
 ---
 
 # Who
 
-We are a group of early-career AI researchers and friends taking personally the situation in Ukraine. We know first hand the challenges which Ukrainians have been facing due to the war and we want to support them as much as we can. You are very welcome to read [more about us](./team) and [get in touch!](#contact)
-
-## Our sponsors
-
-{% include sponsor-logo.html %}
+Do we need this?
+<!-- We are a group of early-career AI researchers and friends taking personally the situation in Ukraine. We know first hand the challenges which Ukrainians have been facing due to the war and we want to support them as much as we can. You are very welcome to read [more about us](./team) and [get in touch!](#contact) -->
 
 ---
 
 # Contact
-
+<!-- TODO: Update links -->
 If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/aihelpsukraine) for announcements.

@@ -8,7 +8,7 @@ permalink: /coc
   <a href="/coc_fr.html">Lire en français</a>
 </div>
 
-# AI Helps Ukraine Code of conduct
+# Harms and Risks of AI in the Military Workshop Code of conduct
 In order to have safe and pleasant exchanges during this event, it is required from every participant to read and follow this AI Helps Ukraine Code of conduct. Since AI Helps Ukraine applies a strict zero tolerance policy, participants who fail to follow the Code of conduct will be banned or expelled from the event, the same way they would be removed during an in-person event.
 
 The main important concept ruling this code of conduct is respect. Respect can take many forms:

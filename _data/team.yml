@@ -1,54 +1,63 @@
-- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
-  bio: I am a postdoc at Mila. I am interested in the fundamental aspects of learning,
-    both in brains and machines and in applications of machine
-    learning to fight climate change.
+- affiliation: ""#""
+  bio: "#"
   committee: General Committee
-  email: alex.hernandez-garcia@mila.quebec
-  fullname: Alex Hernandez-Garcia
-  photo: alex_hernandez-garcia.jpg
-  pronouns: "he/il/\xE9l"
-  alttext: Alex has white skin, green eyes, a thick dark beard and dark long hair though with noticeable receding hairline.
-  twitter: https://twitter.com/alexhdezgcia
-  website: https://alexhernandezgarcia.github.io
-- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
-  bio: I am a third-year Ph.D. student at Mila. My main research interest lies in developing systems that can accumulate and transfer knowledge throughout their lifetime.
+  email: "#"
+  fullname: Gisela Lujan Andrade
+  photo: alexandra_volokhova.jpg
+  pronouns: "#"
+  alttext: "#"
+  website: "#"
+  twitter: "#"
+- affiliation: ""#""
+  bio: "#"
   committee: General Committee
-  email: ostapeno@mila.quebec
-  fullname: Oleksiy Ostapenko
-  photo: oleksiy_ostapenko.png
-  alttext: Oleksiy Ostapenko
-  pronouns: "he/\xE9l/er/він"
-  twitter: https://twitter.com/ostap__alex
-  website: https://www.linkedin.com/in/oleksiy-ostapenko/
-- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
-  bio: I am a third-year Ph.D. student at Mila working on environmental applications of AI. My current research focuses on biodiversity monitoring using remote sensing and citizen science data.
+  email: "#"
+  fullname: Wanda Munoz
+  photo: alexandra_volokhova.jpg
+  pronouns: "#"
+  alttext: "#"
+  website: "#"
+  twitter: "#"
+- affiliation: ""#""
+  bio: "#"
   committee: General Committee
-  email: tengmeli@mila.quebec
-  fullname: Mélisande Teng
-  photo: melisande_teng.jpg
-  pronouns: "she/elle"
-  twitter: https://twitter.com/melisandeteng
-  website: https://melisandeteng.github.io
-- affiliation: ""
-  bio: Graduated in Law and Journalism. I am interested in international politics, cooperation and social field. Currently working in the philanthropic field in Montréal.
+  email: "#"
+  fullname: Yaim Cooper
+  photo: alexandra_volokhova.jpg
+  pronouns: "#"
+  alttext: "#"
+  website: "#"
+  twitter: "#"
+- affiliation: ""#""
+  bio: "#"
   committee: General Committee
-  email: martapp.94@gmail.com
-  fullname: Marta Pereira de la Infanta
-  photo: marta_pereira-de-la-infanta.jpg
-  pronouns: "she/ella/вона"
-  alttext: Marta is...
-  website: none
-  twitter: none
-- affiliation: "Mila, McGill University"
-  bio: I am second-year MSc student at Mila using machine learning for climate science. I especially like working with cryospheric data and climate models.
+  email: "#"
+  fullname: Nidhi Sinha
+  photo: alexandra_volokhova.jpg
+  pronouns: "#"
+  alttext: "#"
+  website: "#"
+  twitter: "#"
+- affiliation: ""#""
+  bio: "#"
   committee: General Committee
-  email: julia.kaltenborn@mila.quebec
-  fullname: Julia Kaltenborn
-  photo: julia_kaltenborn.jpg
-  pronouns: "she/sie/ella"
-  alttext: Julia has white skin, blue eyes, long fair hair that looks slightly tousled in that pic.
-  website: https://liellnima.github.io
-  twitter: https://twitter.com/JuliaKaltenborn
+  email: "#"
+  fullname: Trevor Ortega
+  photo: alexandra_volokhova.jpg
+  pronouns: "#"
+  alttext: "#"
+  website: "#"
+  twitter: "#"
+- affiliation: ""#""
+  bio: "#"
+  committee: General Committee
+  email: "#"
+  fullname: Cristian Dragos Manta
+  photo: alexandra_volokhova.jpg
+  pronouns: "#"
+  alttext: "#"
+  website: "#"
+  twitter: "#"
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: I am a second-year PhD student at Mila working on AI generative models for scientific discovery. My research interests are evolving and currently they include drug discovery, material design, geometric deep learning, bayesian methods, causality.
   committee: General Committee
@@ -59,33 +68,3 @@
   alttext: Alexandra has auburn hair in this image, blue eyes and she smiles into the camera.
   website: https://alexandravolokhova.github.io
   twitter: https://twitter.com/alex_volokhova
-- affiliation: "Mila, DreamFold"
-  bio: "Maksym Korablyov is a PhD student with Yoshua Bengio at Mila and co-founder of DreamFold. His research interests are in the applications of generative flow networks to protein design for social good."
-  committee: General Committee
-  email: korablym@mila.quebec
-  fullname: Maksym Korablyov
-  photo: maksym_korablyov.jpeg
-  pronouns: "he/він"
-  alttext: Maksym has a plaid shirt, short hair and looks both focused and relaxed into the camera.
-  website: https://www.linkedin.com/in/korablyov
-  twitter: none
-- affiliation: "Polytechnique Montréal"
-  bio: I am a second-year PhD student at Polytechnique Montréal. My main research area is AI based testing of autonomous sytems, such as autonomous vehicles. I am very interested in nature inspired optimization algorithms as well as machine learning.
-  committee: General Committee
-  email: dmytro.humeniuk@polymtl.ca
-  fullname: Dmytro Humeniuk
-  photo: dmytro_humeniuk.jpg
-  pronouns: 
-  alttext: Dmytro has dark short hair and a big smile.
-  website: https://www.linkedin.com/in/dmytro-humeniuk-53a107170/
-  twitter: https://twitter.com/dmytro_humeniuk
-- affiliation: "Vector Institute, University of Toronto"
-  bio: I am a first-year MSc student at the University of Toronto, working in reinforcement learning domain. Passionate about environmental conservation and climate change.
-  committee: General Committee
-  email: kateryna.nekhomiazh@mail.utoronto
-  fullname: Kateryna Nekhomiazh
-  photo: kateryna_nekhomiazh.jpg
-  pronouns: she/вона 
-  alttext: Kateryna has straight blonde hair, a big smile and is wearing a yellow dress.
-  website: none
-  twitter: none

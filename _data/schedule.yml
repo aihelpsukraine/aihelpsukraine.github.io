@@ -1,45 +1,46 @@
-- name: Registration
+- name: Introduction by the organizers
   time_start: "09:00"
-  time_end: "09:30"
-- name: Opening remarks
-  time_start: "09:30"
-  time_end: "09:45"
-- name: Keynote talk I
-  time_start: "09:45"
+  time_end: "09:15"
+- name: Introductory keynote on AI systems used for military purposes
+  time_start: "09:15"
+  time_end: "10:00"
+- name: Introductory keynote about the regulations of military AI and autonomous weapons systems
+  time_start: "10:00"
   time_end: "10:45"
-- name: Coffee Break
+- name: Coffee break
   time_start: "10:45"
   time_end: "11:00"
-- name: Panel discussion
+- name: Lightning talks
   time_start: "11:00"
-  time_end: "12:00"
-  title: "AI for social good"
-- name: Lunch Break
-  time_start: "12:00"
-  time_end: "13:30"
-- name: Keynote talk II
-  time_start: "13:30"
-  time_end: "14:30"
-- name: Invited talks
-  time_start: "14:30"
-  time_end: "14:45"
-  title: "Lightening talks by Ukrainian students"
-- name: Coffee Break
-  time_start: "14:45"
+  time_end: "11:30"
+- name: Panel discussion 
+  time_start: "11:30"
+  time_end: "13:00"
+  title: Military AI and the associated arms race
+- name: Lunch
+  time_start: "13:00"
+  time_end: "14:00"
+- name: Posters
+  time_start: "14:00"
   time_end: "15:00"
-- name: Keynote talk III
+- name: Keynote
   time_start: "15:00"
+  time_end: "15:30"
+  title: Ethical / philosophical / human rights perspective on military AI
+- name: Keynote 
+  time_start: "15:30"
   time_end: "16:00"
-- name: Invited talk
+  title: How AI militarisation affects inequality and marginalized communities
+- name: Coffee break
   time_start: "16:00"
-  time_end: "16:15"
-- name: Invited talks
-  time_start: "16:15"
+  time_end: "16:10"
+- name: Panel
+  time_start: "16:10"
   time_end: "17:00"
-  title: "Talks by founders of AI for Good startups"
-- name: Closing remarks
+  title: Role of AI researchers in AI disarmament
+- name: Roundtables
   time_start: "17:00"
-  time_end: "17:15"
-- name: Networking
-  time_start: "17:15"
+  time_end: "18:00"
+- name: Social
+  time_start: "18:00"
   time_end: "19:00"

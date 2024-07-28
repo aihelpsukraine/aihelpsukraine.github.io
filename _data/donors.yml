@@ -1,13 +1,3 @@
-- fullname: Ivado Labs
-  isConfirmed: False
-  logo: ivado_labs.jpg
-  alttext: Logo of Ivado Labs
-  location: Montreal
-  areas: AI, Business
-  motto: Discover how AI can transform your business
-  website: https://ivadolabs.com/en/
-  twitter: "none"
-
 - fullname: Mila
   isConfirmed: False
   logo: mila_logo.png

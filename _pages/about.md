@@ -1,13 +1,12 @@
 ---
 layout: page-floatbutton
 title: About
-subtitle: AI Helps Ukraine - Charity Conference
+subtitle: Harms and Risks of AI in the Military
 permalink: /about
 ---
 <img src="{{ site.logo }}" style="width:300px;vertical-align:middle;padding-right:30px;float:left">
-AI Helps Ukraine is a charity conference for raising funds to support Ukrainians facing the severe humanitarian crisis. We collect donations to purchase and deliver supplies for people living in destroyed areas and oncological patients in Ukraine. Our mission is run in collaboration with the Ukraine Medical Support (UAMS), a Canadian-based nonprofit organisation providing medical and humanitarian aid for Ukraine.
+The growing interest of military agencies in adopting AI technologies raises concerns about the harms and risks posed by such AI applications with respect to safety, human rights, marginalized communities, conflict escalations and global security.  In this workshop, we aim to bridge the gap between the AI research community and experts in military AI regulations. Our workshop will foster a multidisciplinary discussion about the harms and risks related to the use of AI research advances for military applications. Invited speakers will introduce the audience to the topics of AI arms race, challenges in military AI regulations, implications on human rights and global inequality; as well as strategies for mitigating these risks.
 
-As AI researchers, we believe that collective efforts of our broad international community can make a real difference for those who are in need and save lives. Therefore, we are bringing together brilliant artificial intelligence experts, an empathetic audience and responsible companies to attract attention and collect money for vulnerable people in Ukraine.
 
 ---
 
