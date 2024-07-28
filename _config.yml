@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AI Helps Ukraine
-tagline: AI Helps Ukraine Charity Conference
+title: Harms and Risks of AI in the Military
+tagline: The first workshop on Harms and Risks of AI in the Military
 email: ai.helps.ukraine@mila.quebec
 twitter_username: alhelpsukraine
-github_username: aihelpsukraine
 twitter:
   - username: alhelpsukraine
-description: A student-run charity conference on AI for good to raise funds for medical equipment to help Ukraine
-author: AI Helps Ukraine
+description: A cross-disciplinary workshop fostering an open and inclusive discussion on the harms and risks of using AI for military purposes
+author: Harms and Risks of AI in the Military
 baseurl: ""
 url: ""
 logo: assets/img/logo/logo_150dpi.png
@@ -71,4 +70,5 @@ plugins:
 
 # Theme: Bulma Clean Theme
 # theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
