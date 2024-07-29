@@ -11,16 +11,22 @@
   tags:
     - name: Website
       link: https://www.ploughshares.ca/author/branka-marijan
-  skip: False
+  skip: True
 
 - fullname: Elina Noor
   affiliations: 
   - Asia Program at Carnegie
   position: Senior Fellow
-  bio: "Senior Fellow in the Asia Program at Carnegie where she focuses on developments in Southeast Asia, particularly the 
-  impact and implications of technology in reshaping power dynamics, governance, and nation-building in the region. She 
-  currently serves on the ICRC’s Global Advisory Board on digital threats during conflict. She obtained an LL.M (Public 
-  International Law) from the London School of Economics and Political Science, University of London"
+  bio: "Elina Noor focuses on developments in Southeast Asia, particularly the impact 
+  and implications of technology in reshaping power dynamics, governance, and nation-building in the region. 
+  She currently also serves on the International Committee of the Red Cross' Global Advisory Board on digital threats during conflict.
+  Previously, Elina was director of political-security affairs and deputy director of the 
+  Washington, D.C. office at the Asia Society Policy Institute. 
+  
+  Prior to that, Elina was an associate professor at the Daniel K. Inouye Asia-Pacific Center for Security Studies in Honolulu. 
+  She spent most of her career at the Institute of Strategic and International Studies Malaysia, where 
+  she last held the position of director, foreign policy, and security studies. 
+  Elina was also formerly with the Brookings Institution's Project on U.S. Relations with the Islamic World."
   photo: Noor_Elina_Crop.png
   alttext: Dr. Elina Noor
   tags:
@@ -41,18 +47,16 @@
   tags:
     - name: Website
       link: https://professeurs.uqam.ca/professeur/duhaime.bernard/
-  skip: False
+  skip: True
 
-- fullname: Aaron Luthman
+- fullname: Aaron Luttman
   affiliations: 
   - Physical Detection Systems and Deployment Division
   - Pacific Northwest National Laboratory
   position: Advisor
-  bio: "Advisor in Physical Detection Systems and Deployment Division at Pacific Northwest National Laboratory, where he 
-  operates at the nexus of bringing the latest developments in mathematics and data science to concrete national security 
-  applications, establishing and leading diverse and collaborative research teams."
+  bio: "Coming up."
   photo: Luttman_Aaron-5_1.jpg
-  alttext: Aaron Luthman
+  alttext: Aaron Luttman
   tags:
     - name: Website
       link: https://www.pnnl.gov/people/aaron-luttman
@@ -60,29 +64,26 @@
 
 - fullname: Andrew W. Reddie
   affiliations: 
-  - Berkeley’s Goldman School of Public Policy
+  - Berkeley's Goldman School of Public Policy
   - University of California
+  - Berkeley Risk and Security Lab
   nametitle: Prof.
-  position: Associate Research Professor
-  bio: "Associate Research Professor of Public Policy at the University of California, Berkeley’s Goldman School of 
-  Public Policy and Founder of the Berkeley Risk and Security Lab. His research focuses on cybersecurity, nuclear weapons 
-  policy, wargaming, and emerging military technologies."
+  position: Associate Research Professor & Faculty Director, BRSL
+  bio: "Andrew W. Reddie is the founder of the Berkeley Risk and Security Lab (BRSL). His research at the intersection of technology, politics, and security examines how emerging military capabilities shape international order—with a focus on nuclear weapons policy, cybersecurity, AI governance, and innovation. He is also a pioneer of the use of wargaming methods in both classroom and experimental settings"
   photo: reddie.jpg
-  alttext: Prof. Aaron Luthman
+  alttext: Prof. Andrew W. Reddie
   tags:
     - name: Website
-      link: https://reddie.berkeley.edu
+      link: https://gspp.berkeley.edu/research-and-impact/faculty/andrew-reddie
   skip: False
 
 - fullname: Lode Dewaegheneire
   affiliations: 
   - University of Liège (Belgium)
-  position: Independent expert
-  bio: "His main research field is transparency in disarmament and its impact on the implementation of disarmament and arms 
-  control treaties. Lode has served more than 30 years in the Belgium Air Force. Currently he is also working with Mines 
-  Action Canada as a military advisor. Moreover, Lode is involved in the StopKillerRobot Campaign."
-  photo: lode-new.jpg
-  alttext: Prof. Lode Dewaegheneire
+  position: Fellow and Independent Expert
+  bio: "Lode Dewaegheneire's field of research is Autonomous Weapon Systems, more particularly as military advisor with Mines Action Canada and military and parliamentarian outreach consultant with the Campaign to Stop Killer Robots. Previously he was focusing on transparency in disarmament and its impact on the implementation of disarmament and arms control treaties. Other fields of research are (EU) dual-use export control regime and the Arms Trade Treaty (ATT). Dewaegheneire has been working in humanitarian disarmament for many years and was Coordinator for Article 7 Reporting in both the Anti-personal Mine Ban Convention and the Convention on Cluster Munitions. He also worked for three years in the Verification Division of the OPCW where he was responsible for the yearly Verification Implementation Report."
+  photo: lode-new2.png
+  alttext: Lode Dewaegheneire
   tags:
     - name: Website
       link: https://www.forumarmstrade.org/lode-dewaegheneire.html
