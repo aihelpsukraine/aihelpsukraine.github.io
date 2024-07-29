@@ -88,6 +88,17 @@
     - name: Website
       link: https://www.forumarmstrade.org/lode-dewaegheneire.html
   skip: False
+- fullname: TBD
+  affiliations: 
+  - International Committee of the Red Cross (ICRC)
+  position: TBD
+  bio: "TBD"
+  # photo: lode-new2.png
+  # alttext: TBD
+  tags:
+    - name: Website
+      link: https://www.icrc.org/en
+  skip: False
 
 
 
