@@ -18,36 +18,36 @@
   alttext: "#"
   website: "#"
   twitter: "#"
-- affiliation: ""#""
-  bio: "#"
-  committee: General Committee
-  email: "#"
-  fullname: Yaim Cooper
-  photo: alexandra_volokhova.jpg
-  pronouns: "#"
-  alttext: "#"
-  website: "#"
-  twitter: "#"
-- affiliation: ""#""
-  bio: "#"
-  committee: General Committee
-  email: "#"
-  fullname: Nidhi Sinha
-  photo: alexandra_volokhova.jpg
-  pronouns: "#"
-  alttext: "#"
-  website: "#"
-  twitter: "#"
-- affiliation: ""#""
-  bio: "#"
-  committee: General Committee
-  email: "#"
-  fullname: Trevor Ortega
-  photo: alexandra_volokhova.jpg
-  pronouns: "#"
-  alttext: "#"
-  website: "#"
-  twitter: "#"
+# - affiliation: ""#""
+#   bio: "#"
+#   committee: General Committee
+#   email: "#"
+#   fullname: Yaim Cooper
+#   photo: alexandra_volokhova.jpg
+#   pronouns: "#"
+#   alttext: "#"
+#   website: "#"
+#   twitter: "#"
+# - affiliation: ""#""
+#   bio: "#"
+#   committee: General Committee
+#   email: "#"
+#   fullname: Nidhi Sinha
+#   photo: alexandra_volokhova.jpg
+#   pronouns: "#"
+#   alttext: "#"
+#   website: "#"
+#   twitter: "#"
+# - affiliation: ""#""
+#   bio: "#"
+#   committee: General Committee
+#   email: "#"
+#   fullname: Trevor Ortega
+#   photo: alexandra_volokhova.jpg
+#   pronouns: "#"
+#   alttext: "#"
+#   website: "#"
+#   twitter: "#"
 - affiliation: ""#""
   bio: "#"
   committee: General Committee
@@ -68,3 +68,43 @@
   alttext: Alexandra has auburn hair in this image, blue eyes and she smiles into the camera.
   website: https://alexandravolokhova.github.io
   twitter: https://twitter.com/alex_volokhova
+- affiliation: ""#""
+  bio: "#"
+  committee: General Committee
+  email: "#"
+  fullname: Hamza Abdelhedi
+  photo: alexandra_volokhova.jpg
+  pronouns: "#"
+  alttext: "#"
+  website: "#"
+  twitter: "#"
+- affiliation: ""#""
+  bio: "#"
+  committee: General Committee
+  email: "#"
+  fullname: Ezekiel Williams
+  photo: alexandra_volokhova.jpg
+  pronouns: "#"
+  alttext: "#"
+  website: "#"
+  twitter: "#"
+- affiliation: ""#""
+  bio: "#"
+  committee: General Committee
+  email: "#"
+  fullname: Marwa El-Halabi
+  photo: alexandra_volokhova.jpg
+  pronouns: "#"
+  alttext: "#"
+  website: "#"
+  twitter: "#"
+- affiliation: ""#""
+  bio: "#"
+  committee: General Committee
+  email: "#"
+  fullname: Léna Néhale Ezzine
+  photo: alexandra_volokhova.jpg
+  pronouns: "#"
+  alttext: "#"
+  website: "#"
+  twitter: "#"
