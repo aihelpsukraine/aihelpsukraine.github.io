@@ -47,7 +47,7 @@ defaults:
       type: "pages"
     values:
       layout: page
-      hero_image: ./assets/img/bg-sunflowers-005bbbc4-crop.png
+      hero_image: ./assets/img/background.webp
 
 # defaults:
 #   - scope:
