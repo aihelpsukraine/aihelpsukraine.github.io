@@ -13,3 +13,5 @@ permalink: /speakers
         {% include speaker-card.html %}
       {% endif %}
 {% endfor %}
+
+**...More speakers to be added soon!**
