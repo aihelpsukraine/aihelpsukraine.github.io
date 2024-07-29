@@ -1,16 +1,94 @@
 - fullname: Branka Marijan
-  affiliations:
-  - X
+  affiliations: 
+  - Ploughshares
   nametitle: Dr.
+  position: Senior Researcher
   bio: "PhD in International Affairs, her research focuses on military and security implications of emerging technologies. 
   Branka closely follows United Nations disarmament efforts and attends international and national consultations and 
   conferences. Branka is a board member of the Peace and Conflict Studies"
-  photo: yoshua_bengio.jpg
+  photo: branka.jpg
   alttext: Dr. Branka Marijan
   tags:
     - name: Website
-      link: https://yoshuabengio.org/
+      link: https://www.ploughshares.ca/author/branka-marijan
   skip: False
+
+- fullname: Elina Noor
+  affiliations: 
+  - Asia Program at Carnegie
+  position: Senior Fellow
+  bio: "Senior Fellow in the Asia Program at Carnegie where she focuses on developments in Southeast Asia, particularly the 
+  impact and implications of technology in reshaping power dynamics, governance, and nation-building in the region. She 
+  currently serves on the ICRC’s Global Advisory Board on digital threats during conflict. She obtained an LL.M (Public 
+  International Law) from the London School of Economics and Political Science, University of London"
+  photo: Noor_Elina_Crop.png
+  alttext: Dr. Elina Noor
+  tags:
+    - name: Website
+      link: https://www.asiapacific.ca/about-us/distinguished-fellows/elina-noor
+  skip: False
+
+- fullname: Bernard Duhaime
+  affiliations: 
+  - Faculty of Law and Political Science
+  - University of Quebec in Montreal
+  position: Professor of International Law
+  bio: "He teaches international human rights law and the Inter-American System of Protection of Human Rights. He also serves
+  as a member of the Working group on enforced or involuntary disappearances reporting to the United Nations Human Rights
+  Council. Bernard is invited to give a talk on implications of military AI on human rights."
+  photo: bernard.jpg
+  alttext: Prof. Bernard Duhaime
+  tags:
+    - name: Website
+      link: https://professeurs.uqam.ca/professeur/duhaime.bernard/
+  skip: False
+
+- fullname: Aaron Luthman
+  affiliations: 
+  - Physical Detection Systems and Deployment Division
+  - Pacific Northwest National Laboratory
+  position: Advisor
+  bio: "Advisor in Physical Detection Systems and Deployment Division at Pacific Northwest National Laboratory, where he 
+  operates at the nexus of bringing the latest developments in mathematics and data science to concrete national security 
+  applications, establishing and leading diverse and collaborative research teams."
+  photo: Luttman_Aaron-5_1.jpg
+  alttext: Aaron Luthman
+  tags:
+    - name: Website
+      link: https://www.pnnl.gov/people/aaron-luttman
+  skip: False
+
+- fullname: Andrew W. Reddie
+  affiliations: 
+  - Berkeley’s Goldman School of Public Policy
+  - University of California
+  nametitle: Prof.
+  position: Associate Research Professor
+  bio: "Associate Research Professor of Public Policy at the University of California, Berkeley’s Goldman School of 
+  Public Policy and Founder of the Berkeley Risk and Security Lab. His research focuses on cybersecurity, nuclear weapons 
+  policy, wargaming, and emerging military technologies."
+  photo: reddie.jpg
+  alttext: Prof. Aaron Luthman
+  tags:
+    - name: Website
+      link: https://reddie.berkeley.edu
+  skip: False
+
+- fullname: Lode Dewaegheneire
+  affiliations: 
+  - University of Liège (Belgium)
+  position: Independent expert
+  bio: "His main research field is transparency in disarmament and its impact on the implementation of disarmament and arms 
+  control treaties. Lode has served more than 30 years in the Belgium Air Force. Currently he is also working with Mines 
+  Action Canada as a military advisor. Moreover, Lode is involved in the StopKillerRobot Campaign."
+  photo: lode-new.jpg
+  alttext: Prof. Lode Dewaegheneire
+  tags:
+    - name: Website
+      link: https://www.forumarmstrade.org/lode-dewaegheneire.html
+  skip: False
+
+
 
 # - fullname: Hannah Kerner
 #   affiliations:

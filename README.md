@@ -1,4 +1,4 @@
-# uss2021.github.io
+# Harms and Risks of AI in military website
 
 # Run site locally
 ```
