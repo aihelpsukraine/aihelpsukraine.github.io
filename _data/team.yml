@@ -68,16 +68,16 @@
   alttext: Alexandra has auburn hair in this image, blue eyes and she smiles into the camera.
   website: https://alexandravolokhova.github.io
   twitter: https://twitter.com/alex_volokhova
-- affiliation: ""#""
-  bio: "#"
+- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
+  bio: I am a second-year master's student at Mila working on the intersection of Neuroscience and AI. I thoroughly enjoy learning and contributing in various ways, particularly through projects that not only delve into the science but also aim to vulgarize and make it accessible.
   committee: General Committee
-  email: "#"
+  email: "hamza.abdelhedii@gmail.com"
   fullname: Hamza Abdelhedi
-  photo: alexandra_volokhova.jpg
-  pronouns: "#"
-  alttext: "#"
-  website: "#"
-  twitter: "#"
+  photo: hamza.jpg
+  pronouns: "He/Him"
+  alttext: "Hamza Abdelhedi"
+  website: "www.hamzaabdelhedi.com"
+  twitter: "https://twitter.com/hamza-abdelhedi"
 - affiliation: ""#""
   bio: "#"
   committee: General Committee
@@ -88,23 +88,22 @@
   alttext: "#"
   website: "#"
   twitter: "#"
-- affiliation: ""#""
-  bio: "#"
+- affiliation: "Samsung SAIT AI Lab Montreal"
+  bio: Marwa is a research scientist at the Samsung SAIT AI Lab Montreal, within Mila. She is interested in discrete and continuous optimization problems in Machine learning and in AI for social good applications.
   committee: General Committee
-  email: "#"
+  email: "marwa.elhalabi@gmail.com"
   fullname: Marwa El-Halabi
-  photo: alexandra_volokhova.jpg
-  pronouns: "#"
-  alttext: "#"
-  website: "#"
-  twitter: "#"
-- affiliation: ""#""
-  bio: "#"
+  photo: marwa.jpeg
+  pronouns: "She/Her"
+  alttext: "Marwa El-Halabi"
+  website: "https://sites.google.com/view/marwaelhalabi/"
+  twitter: "https://x.com/marwaElhalabi"
+- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
+  bio: Léna is a 2nd year PhD student supervised by Yoshua Bengio. She is interested in  the applications of AI to help us tackle important societal issues and make our societies better, and her research lies in the intersection of AI and drug discovery. In her free time, she loves playing music.
   committee: General Committee
-  email: "#"
+  email: "lena-nehale.ezzine@mila.quebec"
   fullname: Léna Néhale Ezzine
-  photo: alexandra_volokhova.jpg
-  pronouns: "#"
-  alttext: "#"
-  website: "#"
-  twitter: "#"
+  photo: lena.jpeg
+  pronouns: "She/Her/Elle"
+  alttext: "Léna Néhale Ezzine"
+  twitter: "https://x.com/LenaEzzine"

@@ -15,16 +15,16 @@
 # in the templates via {{ site.myvariable }}.
 title: Harms and Risks of AI in the Military
 tagline: The first workshop on Harms and Risks of AI in the Military
-email: ai.helps.ukraine@mila.quebec
-twitter_username: alhelpsukraine
+email: hraim2024@googlegroups.com 
+twitter_username: harmsrisksaimilitary
 twitter:
-  - username: alhelpsukraine
+  - username: harmsrisksaimilitary
 description: A cross-disciplinary workshop fostering an open and inclusive discussion on the harms and risks of using AI for military purposes
 author: Harms and Risks of AI in the Military
 baseurl: ""
 url: ""
-logo: assets/img/logo/logo_150dpi.png
-favicon: assets/img/logo/icon_square_transparent.png
+logo: assets/img/logo/logo.jpeg
+favicon: assets/img/logo/logo.jpeg
 
 # Reading Files
 include:
@@ -47,7 +47,7 @@ defaults:
       type: "pages"
     values:
       layout: page
-      hero_image: ./assets/img/background.webp
+      hero_image: ./assets/img/background3.png
 
 # defaults:
 #   - scope:

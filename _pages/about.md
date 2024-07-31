@@ -4,9 +4,8 @@ title: About
 subtitle: Harms and Risks of AI in the Military
 permalink: /about
 ---
-<img src="{{ site.logo }}" style="width:300px;vertical-align:middle;padding-right:30px;float:left">
+<img src="{{ site.logo }}" style="width:150px;vertical-align:middle;padding-right:10px;float:left">
 The growing interest of military agencies in adopting AI technologies raises concerns about the harms and risks posed by such AI applications with respect to safety, human rights, marginalized communities, conflict escalations and global security.  In this workshop, we aim to bridge the gap between the AI research community and experts in military AI regulations. Our workshop will foster a multidisciplinary discussion about the harms and risks related to the use of AI research advances for military applications. Invited speakers will introduce the audience to the topics of AI arms race, challenges in military AI regulations, implications on human rights and global inequality; as well as strategies for mitigating these risks.
-
 
 ---
 
