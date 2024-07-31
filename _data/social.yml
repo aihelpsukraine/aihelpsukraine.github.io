@@ -1,8 +1,0 @@
-# https://fontawesome.com/
-# https://jpswalsh.github.io/academicons/
-- name: Twitter
-  link: https://twitter.com/harmsrisksaimilitary
-  icon:
-    source: fa
-    name: fa-twitter
-    type: fab
