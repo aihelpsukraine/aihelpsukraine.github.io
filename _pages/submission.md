@@ -2,7 +2,7 @@
 layout: page-floatbutton
 title: Submission
 subtitle: Guidelines
-permalink: /about
+permalink: /submission
 ---
 ### Important dates
 <!-- add Update dates -->
