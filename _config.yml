@@ -24,7 +24,7 @@ author: Harms and Risks of AI in the Military
 baseurl: ""
 url: ""
 logo: assets/img/logo/logo.jpeg
-favicon: assets/img/logo/logo.jpeg
+favicon: assets/img/logo/favicon.ico
 
 # Reading Files
 include:
