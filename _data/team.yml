@@ -48,23 +48,22 @@
 #   alttext: "#"
 #   website: "#"
 #   twitter: "#"
-- affiliation: ""#""
-  bio: "#"
-  committee: General Committee
-  email: "#"
-  fullname: Cristian Dragos Manta
-  photo: alexandra_volokhova.jpg
-  pronouns: "#"
-  alttext: "#"
-  website: "#"
-  twitter: "#"
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
-  bio: I am a second-year PhD student at Mila working on AI generative models for scientific discovery. My research interests are evolving and currently they include drug discovery, material design, geometric deep learning, bayesian methods, causality.
+  bio: Cristian is a PhD student at Mila and Université de Montréal supervised by Yoshua Bengio and Dhanya Sridhar. His research is concerned with incorporating good inductive biases into causal discovery algorithms to improve their applicability to scientific discovery. He co-organized an event to stimulate discussions about the social impacts of AI research within the Mila community and to foster new collaborations on responsible AI projects. He also co-organizes a reading group at Mila, which is focused on the impacts of militarization of AI on society and AI disarmament.
+  committee: General Committee
+  email: cristian-dragos.manta@mila.quebec
+  fullname: Cristian Dragos Manta
+  photo: cristian.jpeg
+  pronouns: He/Him
+  alttext: Cristian Dragos Manta
+  website: https://www.linkedin.com/in/dragos-cristian-manta-624328164/
+- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
+  bio: Alexandra is a PhD student at Mila and Université de Montréal working with Prof. Yoshua Bengio. Her research is focused on generative models for 3D structures in application to drug discovery and material design. Alexandra co-organized New In ML workshop at Neurips 2022, Mila GFlowNet Workshop and was the lead organizer for AI Helps Ukraine Charity Conference. At Mila, Alexandra co-organizes various community meetups and workshops. She leads a local reading group focused on the impacts of militarization of AI on society and AI disarmament.
   committee: General Committee
   email: alexandra.volokhova@mila.quebec
   fullname: Alexandra Volokhova
   photo: alexandra_volokhova.jpg
-  pronouns: "she/она"
+  pronouns: "She/Her"
   alttext: Alexandra has auburn hair in this image, blue eyes and she smiles into the camera.
   website: https://alexandravolokhova.github.io
   twitter: https://twitter.com/alex_volokhova
@@ -77,7 +76,7 @@
   pronouns: "He/Him"
   alttext: "Hamza Abdelhedi"
   website: "www.hamzaabdelhedi.com"
-  twitter: "https://twitter.com/hamza-abdelhedi"
+  twitter: "https://twitter.com/hamza_abdelhedi"
 - affiliation: ""#""
   bio: "#"
   committee: General Committee
