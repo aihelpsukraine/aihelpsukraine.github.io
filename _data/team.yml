@@ -83,16 +83,16 @@
   website: "www.hamzaabdelhedi.com"
   twitter: "https://twitter.com/hamza_abdelhedi"
   linkedin: "https://www.linkedin.com/in/hamza-abdelhedi/"
-- affiliation: ""#""
-  bio: "#"
+- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
+  bio: Zeke is a PhD candidate in applied mathematics at the University of Montreal. With a background in math and neuroscience, he studies recurrent neural networks as models for learning and memory in the brain. In his spare time he practices music, athletics, and activism.
   committee: General Committee
-  email: "#"
+  email: ezekiel.williams@mila.quebec
   fullname: Ezekiel Williams
-  # photo: alexandra_volokhova.jpg
-  pronouns: "#"
-  alttext: "#"
-  website: "#"
-  twitter: "#"
+  photo: ezekiel.jpeg
+  pronouns: He/Him
+  alttext: Ezekiel Williams
+  website: computationalcognition.ca
+  twitter: "none"
   linkedin: "none"
 - affiliation: "Samsung SAIT AI Lab Montreal"
   bio: Marwa is a research scientist at the Samsung SAIT AI Lab Montreal, within Mila. She is interested in discrete and continuous optimization problems in Machine learning and in AI for social good applications.
