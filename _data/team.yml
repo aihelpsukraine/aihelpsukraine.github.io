@@ -8,6 +8,7 @@
   alttext: "#"
   website: "#"
   twitter: "#"
+  linkedin: "none"
 - affiliation: ""#""
   bio: "#"
   committee: General Committee
@@ -18,6 +19,7 @@
   alttext: "#"
   website: "#"
   twitter: "#"
+  linkedin: "none"
 # - affiliation: ""#""
 #   bio: "#"
 #   committee: General Committee
@@ -56,7 +58,9 @@
   photo: cristian.jpeg
   pronouns: He/Him
   alttext: Cristian Dragos Manta
-  website: https://www.linkedin.com/in/dragos-cristian-manta-624328164/
+  linkedin: https://www.linkedin.com/in/dragos-cristian-manta-624328164/
+  website: "none"
+  twitter: "none"
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: Alexandra is a PhD student at Mila and Université de Montréal working with Prof. Yoshua Bengio. Her research is focused on generative models for 3D structures in application to drug discovery and material design. Alexandra co-organized New In ML workshop at Neurips 2022, Mila GFlowNet Workshop and was the lead organizer for AI Helps Ukraine Charity Conference. At Mila, Alexandra co-organizes various community meetups and workshops. She leads a local reading group focused on the impacts of militarization of AI on society and AI disarmament.
   committee: General Committee
@@ -67,6 +71,7 @@
   alttext: Alexandra has auburn hair in this image, blue eyes and she smiles into the camera.
   website: https://alexandravolokhova.github.io
   twitter: https://twitter.com/alex_volokhova
+  linkedin: "none"
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: I am a second-year master's student at Mila working on the intersection of Neuroscience and AI. I thoroughly enjoy learning and contributing in various ways, particularly through projects that not only delve into the science but also aim to vulgarize and make it accessible.
   committee: General Committee
@@ -77,6 +82,7 @@
   alttext: "Hamza Abdelhedi"
   website: "www.hamzaabdelhedi.com"
   twitter: "https://twitter.com/hamza_abdelhedi"
+  linkedin: "https://www.linkedin.com/in/hamza-abdelhedi/"
 - affiliation: ""#""
   bio: "#"
   committee: General Committee
@@ -87,6 +93,7 @@
   alttext: "#"
   website: "#"
   twitter: "#"
+  linkedin: "none"
 - affiliation: "Samsung SAIT AI Lab Montreal"
   bio: Marwa is a research scientist at the Samsung SAIT AI Lab Montreal, within Mila. She is interested in discrete and continuous optimization problems in Machine learning and in AI for social good applications.
   committee: General Committee
@@ -97,6 +104,7 @@
   alttext: "Marwa El-Halabi"
   website: "https://sites.google.com/view/marwaelhalabi/"
   twitter: "https://x.com/marwaElhalabi"
+  linkedin: "none"
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: Léna is a 2nd year PhD student supervised by Yoshua Bengio. She is interested in  the applications of AI to help us tackle important societal issues and make our societies better, and her research lies in the intersection of AI and drug discovery. In her free time, she loves playing music.
   committee: General Committee
@@ -106,3 +114,5 @@
   pronouns: "She/Her/Elle"
   alttext: "Léna Néhale Ezzine"
   twitter: "https://x.com/LenaEzzine"
+  linkedin: "none"
+  website: "none"
