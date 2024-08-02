@@ -1,0 +1,42 @@
+<table class="table is-hoverable">
+  <thead>
+    <tr>
+      <th>Time (ET)</th>
+      <th>Session</th>
+      <th>Speaker</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign allspeakers = site.data.speakers | where: "session", "inperson" %}
+    {% assign schedule_dec3 = site.data.schedule_dec3 | sort: 'time_start' %}
+    {% for event in schedule_dec3 %}
+      {% assign speakers = allspeakers | where: "time", event.time_start %}
+      {% capture speakernames %}
+        {% for speaker in speakers | sample: speakers.size %}
+          <a href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">{{ speaker.fullname }}</a>{% if forloop.last == false %}, {% endif %}
+        {% endfor %}
+      {% endcapture %}
+        <tr>
+          <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=AI+Helps+Ukraine&iso=20221208T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00&p1=165">{{ event.time_start }}</a> - {{ event.time_end }}</td>
+          <td>{{ event.name }}</td>
+          <td>{{ speakernames }}</td>
+          {% capture eventtitle %}
+            {% if event.title %}
+              {{ event.title }}
+            {% else %}
+              {% if speakers.first.abstract %}
+              <details>
+                <summary>{{ speakers.first.title }}</summary>
+                {{ speakers.first.abstract }}
+              </details>
+              {% else %}
+                {{ speakers.first.title }}
+              {% endif %}
+            {% endif %}
+          {% endcapture %}
+          <td>{{ eventtitle }}</td>
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>

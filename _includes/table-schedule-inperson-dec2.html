@@ -1,7 +1,7 @@
 <table class="table is-hoverable">
   <thead>
     <tr>
-      <th>Time (EDT)</th>
+      <th>Time (ET)</th>
       <th>Session</th>
       <th>Speaker</th>
       <th>Title</th>
@@ -9,8 +9,8 @@
   </thead>
   <tbody>
     {% assign allspeakers = site.data.speakers | where: "session", "inperson" %}
-    {% assign schedule = site.data.schedule | sort: 'time_start' %}
-    {% for event in schedule %}
+    {% assign schedule_dec2 = site.data.schedule_dec2 | sort: 'time_start' %}
+    {% for event in schedule_dec2 %}
       {% assign speakers = allspeakers | where: "time", event.time_start %}
       {% capture speakernames %}
         {% for speaker in speakers | sample: speakers.size %}
