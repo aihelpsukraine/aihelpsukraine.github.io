@@ -30,7 +30,6 @@ In-person at [Mila - Quebec AI Institute](https://mila.quebec/) in Montreal,
 
 **6666 Rue Saint-Urbain, Montréal, QC H2S 3H1** - Agora hall.
 
-Hybrid options coming up soon.
 
 ---
 
