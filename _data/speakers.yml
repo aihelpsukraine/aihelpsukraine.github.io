@@ -51,10 +51,9 @@
 
 - fullname: Aaron Luttman
   affiliations: 
-  - Physical Detection Systems and Deployment Division
   - Pacific Northwest National Laboratory
-  position: Advisor
-  bio: "Coming up."
+  position: Senior Technical Advisor
+  bio: "Aaron Luttman is a researcher at Pacific Northwest National Laboratory – a multi-mission US Department of Energy R&D facility – where he focuses on bringing artificial intelligence and other emerging technologies to US national security missions. A mathematician by training, he has published over 40 journal articles on pure and applied mathematics and given over 100 research presentations, including as a Society of Industrial and Applied Mathematics Visiting Lecturer and a Mathematical Association of America Distinguished Lecturer. Dr. Luttman’s primary technical focus is on AI Assurance, including safety, security, robustness, and vulnerabilities of AI models. He served as a co-organizer of the US National Academies workshop “AI and Justified Confidence,” designed to assess the challenges of bringing AI to Army command and control, and he is also on the faculty at Montana State University, where he teaches “Data Science for National Security.”"
   photo: Luttman_Aaron-5_1.jpeg
   alttext: Aaron Luttman
   tags:
