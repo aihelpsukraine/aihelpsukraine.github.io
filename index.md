@@ -5,7 +5,7 @@ subtitle: A cross-disciplinary workshop fostering an open and inclusive discussi
 toc: false
 ---
 
-Click on the bottom left button below if you want to join us in person on 1st Dec at Mila, Montreal, click on the right button if you would like to submit an abstract to our workshop
+Click on the bottom left button below if you want to join us in person on Dec 2-3 at Mila - Quebec AI Institute, Montreal. Click on the right button if you would like to submit a paper to our workshop.
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 
@@ -18,7 +18,19 @@ Click on the bottom left button below if you want to join us in person on 1st De
 <img src="{{ site.logo }}" style="width:220px;vertical-align:middle;padding-right:30px;padding-bottom:10px;float:left">
 A cross-disciplinary workshop, which aims to create a space for an honest and inclusive discussion about the harms and risks associated with the use of AI research advances for military applications and the associated AI arms race, challenges to regulate it, its implications on human rights, marginalized communities, global inequality, and global security; and strategies to regulate military AI to mitigate these harms and risks. We would like to bring together experts from the fields of AI, humanitarian disarmament, AI governance, social justice, human rights advocates, geopolitics and game theory of arms races, as well as people who are or were once involved in military applications of AI, to discuss together challenges, potential strategies and the role of AI researchers in AI demilitarization.
 
-The conference consists of a a series of talks taking place on **December 1st 2024** in-person at [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
+---
+
+# When
+
+December 2nd and December 3rd 2024.
+
+# Where
+
+In-person at [Mila - Quebec AI Institute](https://mila.quebec/) in Montreal,
+
+**6666 Rue Saint-Urbain, Montréal, QC H2S 3H1** - Agora hall.
+
+Hybrid options coming up soon.
 
 ---
 
