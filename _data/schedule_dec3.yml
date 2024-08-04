@@ -22,7 +22,7 @@
 - name: "Coffee break"
   time_start: "15:00"
   time_end: "15:15"
-- name: "Roundtable discussions. Possible topics: challenges for activist initiatives within the AI community (e.g. fears of getting fired or blacklisted, not knowing labor rights, whistleblower laws, research funding coming from the military, lack of funding), strategies for bridging gaps between political advocacy and technical communities, perceived advantages and disadvantages of AI militarization, challenging the discourse on the need of weaponizing AI"
+- name: "Roundtable discussions"
   time_start: "15:15"
   time_end: "16:30"
 - name: "Synthesis and key insights"
