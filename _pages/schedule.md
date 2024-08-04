@@ -13,6 +13,8 @@ The conference will take place at the Agora hall of [Mila](https://mila.quebec/)
 
 The times are given in the local **Montreal time (Eastern Time, UTC-4)**.
 
+Please find below our **tentative** schedule.
+
 ## December 2nd
 
 {% include table-schedule-inperson-dec2.html %}
