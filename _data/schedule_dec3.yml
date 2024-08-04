@@ -1,46 +1,33 @@
-- name: Introduction by the organizers
+- name: Registration
+  time_start: "08:30"
+  time_end: "09:00"
+- name: Keynote talk about the ethical, philosophical, and human rights perspectives on military AI
   time_start: "09:00"
-  time_end: "09:15"
-- name: Introductory keynote on AI systems used for military purposes
-  time_start: "09:15"
-  time_end: "10:00"
-- name: Introductory keynote about the regulations of military AI and autonomous weapons systems
-  time_start: "10:00"
+  time_end: "09:45"
+- name: "Keynote talk on how AI militarization affects inequality and marginalized communities"
+  time_start: "09:45"
+  time_end: "10:30"
+- name: "Coffee break"
+  time_start: "10:30"
   time_end: "10:45"
-- name: Coffee break
+- name: "Panel discussion about the role of AI researchers in AI disarmament"
   time_start: "10:45"
-  time_end: "11:00"
-- name: Lightning talks
-  time_start: "11:00"
-  time_end: "11:30"
-- name: Panel discussion 
-  time_start: "11:30"
-  time_end: "13:00"
-  title: Military AI and the associated arms race
-- name: Lunch
-  time_start: "13:00"
-  time_end: "14:00"
-- name: Posters
-  time_start: "14:00"
+  time_end: "12:00"
+- name: "Lunch break"
+  time_start: "12:00"
+  time_end: "13:30"
+- name: "Poster session"
+  time_start: "13:30"
   time_end: "15:00"
-- name: Keynote
+- name: "Coffee break"
   time_start: "15:00"
-  time_end: "15:30"
-  title: Ethical / philosophical / human rights perspective on military AI
-- name: Keynote 
-  time_start: "15:30"
-  time_end: "16:00"
-  title: How AI militarisation affects inequality and marginalized communities
-- name: Coffee break
-  time_start: "16:00"
-  time_end: "16:10"
-- name: Panel
-  time_start: "16:10"
+  time_end: "15:15"
+- name: "Roundtable discussions. Possible topics: challenges for activist initiatives within the AI community (e.g. fears of getting fired or blacklisted, not knowing labor rights, whistleblower laws, research funding coming from the military, lack of funding), strategies for bridging gaps between political advocacy and technical communities, perceived advantages and disadvantages of AI militarization, challenging the discourse on the need of weaponizing AI"
+  time_start: "15:15"
+  time_end: "16:30"
+- name: "Synthesis and key insights"
+  time_start: "16:30"
   time_end: "17:00"
-  title: Role of AI researchers in AI disarmament
-- name: Roundtables
+- name: "Closing remarks"
   time_start: "17:00"
-  time_end: "18:00"
-- name: Social
-  time_start: "18:00"
-  time_end: "19:00"
+  time_end: "17:15"

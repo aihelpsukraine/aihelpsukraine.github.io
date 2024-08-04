@@ -1,31 +1,33 @@
-- name: Introduction by the organizers
+- name: Registration
   time_start: "09:00"
-  time_end: "09:15"
-- name: Introductory keynote on AI systems used for military purposes
-  time_start: "09:15"
-  time_end: "10:15"
-- name: Introductory keynote about the regulations of military AI and autonomous weapons systems
-  time_start: "10:15"
+  time_end: "09:30"
+- name: Opening remarks by the organizers
+  time_start: "09:30"
+  time_end: "09:45"
+- name: "Keynote talk providing an overview of AI systems used for military purposes"
+  time_start: "09:45"
+  time_end: "10:30"
+- name: "Keynote talk about the regulations of military AI and autonomous weapons systems: current state of the global political discussions"
+  time_start: "10:30"
   time_end: "11:15"
 - name: Coffee break
   time_start: "11:15"
   time_end: "11:30"
 - name: Contributed talks
   time_start: "11:30"
-  time_end: "12:30"
-- name: Lunch 
-  time_start: "12:30"
-  time_end: "13:30"
-- name: Poster session 1
-  time_start: "13:30"
-  time_end: "15:00"
-- name: Panel discussion
-  time_start: "15:00"
+  time_end: "12:15"
+- name: Lunch break
+  time_start: "12:15"
+  time_end: "13:45"
+- name: Poster session
+  time_start: "13:45"
+  time_end: "15:15"
+- name: "Panel discussion about military AI and the associated arms race: impacts on global security, immediate efforts taking place to address them, and governance challenges to AI demilitarization. Possible technical and governance solutions for the near (5-10 years) future"
+  time_start: "15:15"
   time_end: "16:30"
-  title: Military AI and the associated arms race
-- name: Roundtable discussion
+- name: Coffee break
   time_start: "16:30"
-  time_end: "18:00"
-- name: Social 
-  time_start: "18:00"
-  time_end: "19:00"
+  time_end: "16:45"
+- name: "Social activity"
+  time_start: "16:45"
+  time_end: "17:45"
