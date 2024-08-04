@@ -18,7 +18,7 @@
         {% endfor %}
       {% endcapture %}
         <tr>
-          <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=AI+Helps+Ukraine&iso=20221208T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00&p1=165">{{ event.time_start }}</a> - {{ event.time_end }}</td>
+          <td>{{ event.time_start }} - {{ event.time_end }}</td>
           <td>{{ event.name }}</td>
           <td>{{ speakernames }}</td>
           {% capture eventtitle %}
