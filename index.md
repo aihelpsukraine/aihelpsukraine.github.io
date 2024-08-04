@@ -28,7 +28,7 @@ December 2nd and December 3rd 2024.
 
 In-person at [Mila - Quebec AI Institute](https://mila.quebec/) in Montreal,
 
-**6666 Rue Saint-Urbain, Montréal, QC H2S 3H1** - Agora hall.
+**6650 Rue Saint-Urbain, Montréal, QC H2S 3H1** - Agora hall.
 
 # Why
 
