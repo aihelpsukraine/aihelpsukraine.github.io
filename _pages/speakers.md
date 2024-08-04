@@ -14,4 +14,4 @@ permalink: /speakers
       {% endif %}
 {% endfor %}
 
-**...More speakers to be added soon!**
+### ... more speakers to be announced soon!

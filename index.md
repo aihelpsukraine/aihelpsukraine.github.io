@@ -30,6 +30,9 @@ In-person at [Mila - Quebec AI Institute](https://mila.quebec/) in Montreal,
 
 **6666 Rue Saint-Urbain, Montréal, QC H2S 3H1** - Agora hall.
 
+# Why
+
+The growing interest of military agencies in adopting AI technologies raises concerns about the harms and risks posed by such AI applications with respect to safety, human rights, marginalized communities, conflict escalations and global security.  In this workshop, we aim to bridge the gap between the AI research community and experts in military AI regulations. Our workshop will foster a multidisciplinary discussion about the harms and risks related to the use of AI research advances for military applications. Invited speakers will introduce the audience to the topics of AI arms race, challenges in military AI regulations, implications on human rights and global inequality; as well as strategies for mitigating these risks.
 
 ---
 
@@ -37,11 +40,10 @@ In-person at [Mila - Quebec AI Institute](https://mila.quebec/) in Montreal,
 
 {% include speaker-gallery.html %}
 
+### ... more speakers to be announced soon!
+
 ---
 
-# Why
-
-The growing interest of military agencies in adopting AI technologies raises concerns about the harms and risks posed by such AI applications with respect to safety, human rights, marginalized communities, conflict escalations and global security.  In this workshop, we aim to bridge the gap between the AI research community and experts in military AI regulations. Our workshop will foster a multidisciplinary discussion about the harms and risks related to the use of AI research advances for military applications. Invited speakers will introduce the audience to the topics of AI arms race, challenges in military AI regulations, implications on human rights and global inequality; as well as strategies for mitigating these risks.
 
 <!-- ---
 
