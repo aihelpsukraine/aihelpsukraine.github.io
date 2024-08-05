@@ -11,3 +11,10 @@ assets/img/team/*_orig*
 assets/img/speakers/*_orig*
 assets/img/banners
 .DS_Store
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
