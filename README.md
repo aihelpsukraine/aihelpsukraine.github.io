@@ -1,4 +1,4 @@
-# Harms and Risks of AI in military website
+# Harms and Risks of AI in the military website
 
 # Run site locally
 ```
