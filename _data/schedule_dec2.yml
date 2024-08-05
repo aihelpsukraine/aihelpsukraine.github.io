@@ -4,7 +4,7 @@
 - name: Opening remarks by the organizers
   time_start: "09:30"
   time_end: "09:45"
-- name: "Keynote talk providing an overview of AI systems used for military purposes"
+- name: "Keynote talk providing an overview of AI systems used for military purposes and their capabilities"
   time_start: "09:45"
   time_end: "10:30"
 - name: "Keynote talk about the regulations of military AI and autonomous weapons systems: current state of the global political discussions"
