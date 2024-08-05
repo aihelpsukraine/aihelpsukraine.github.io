@@ -9,7 +9,7 @@ permalink: /coc_fr
 </div>
 
 # Harms and Risks of AI in the Military Workshop Code de conduite
-Afin d’avoir des échanges sains et agréables tout au long the cet événement, il est essential que chaque participant.e lise et suive le présent Code de conduite du workshop. Puisque le symposium Harms and Risks of AI in the Military Workshop applique une politique stricte de tolérance zéro, les participant.e.s qui ne respecteront pas le présent Code de conduite seront banni.e.s ou expulsé.e.s de l’événement, de la même façon qu’ils ou elles seraient expulsé.e.s d’un événement en présentiel.
+Afin d’avoir des échanges sains et agréables tout au long the cet événement, il est essential que chaque participant.e lise et suive le présent Code de conduite du workshop. Puisque le symposium Harms and Risks of AI in the Military Workshop applique une politique stricte de tolérance zéro, les participant.e.s qui ne respecteront pas le présent Code de conduite seront banni.e.s ou expulsé.e.s de l’événement.
 
 Le principal concept soutenant le présent Code de conduite est le respect. Le respect peut prendre une multitude de formes:
 - Respect des origines (apparence physique, nationalité, ethnie, etc.)
