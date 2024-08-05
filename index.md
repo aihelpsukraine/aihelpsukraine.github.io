@@ -5,7 +5,7 @@ subtitle: A cross-disciplinary workshop fostering an open and inclusive discussi
 toc: false
 ---
 
-Click on the bottom left button below if you want to join us in person on Dec 2-3 at Mila - Quebec AI Institute, Montreal. Click on the right button if you would like to submit a paper to our workshop.
+Click on the bottom left button below if you want to join us in person or virtually on Dec 2-3 at Mila - Quebec AI Institute, Montreal. Click on the right button if you would like to submit a paper to our workshop.
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 
@@ -29,6 +29,8 @@ December 2nd and December 3rd 2024.
 In-person at [Mila - Quebec AI Institute](https://mila.quebec/) in Montreal,
 
 **6650 Rue Saint-Urbain, Montréal, QC H2S 3H1** - Agora hall.
+
+Hybrid participation format will be announced soon.
 
 ---
 
