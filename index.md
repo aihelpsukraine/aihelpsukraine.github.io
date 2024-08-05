@@ -42,13 +42,9 @@ Hybrid participation format will be announced soon.
 
 ---
 
+# Our Sponsors
 
-<!-- ---
-
-# Who
-
-Do we need this? -->
-<!-- We are a group of early-career AI researchers and friends taking personally the situation in Ukraine. We know first hand the challenges which Ukrainians have been facing due to the war and we want to support them as much as we can. You are very welcome to read [more about us](./team) and [get in touch!](#contact) -->
+{% include sponsor-gallery.html %}
 
 ---
 

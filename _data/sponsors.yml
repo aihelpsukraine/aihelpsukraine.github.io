@@ -1,2 +1,4 @@
-- photo: yoshua.png
-  link: https://yoshuabengio.org/
+- fullname: "Yoshua Bengio" 
+  photo: yoshua.png
+  website: https://yoshuabengio.org/
+  alttext: "Yoshua Bengio"

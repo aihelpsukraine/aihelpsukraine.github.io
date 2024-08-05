@@ -1,0 +1,8 @@
+<div class="columns is-multiline">
+    {% assign sponsors = site.data.sponsors | sort: "date" %}
+    {% for sponsor in sponsors %}
+      {% if sponsor.skip %}{% continue %}{% endif %}
+          {% include sponsor-gallery-card.html %}
+    {% endfor %}
+    </div>
+    

@@ -1,0 +1,25 @@
+<div class="column is-one-quarter-desktop is-half-tablet">
+    <div class="card">
+      <header class="card-header">
+        <span class="card-header-title">
+        {% if sponsor.session != "tbd" %}
+          {% assign datereadable = site.data.datesdict | where: "code", sponsor.date | first %}
+          <a class="card-header-item" href="schedule">{{ datereadable.readable | split: "(" | first | rstrip }}</a>
+        {% else %}
+          <a class="card-header-item" href="schedule">TBD</a>
+        {% endif %}
+        </span>
+      </header>
+      <div class="card-image">
+        <figure class="image is-square">
+          <a href="{{ sponsor.website }}">
+            <img src="assets/img/sponsors/{{ sponsor.photo }}" alt="{{ sponsor.alttext }}">
+          </a>
+        </figure>
+      </div>
+      <footer class="card-footer">
+        <a class="card-footer-item" href="{{ sponsor.website }}">{{ sponsor.fullname }}</a>
+      </footer>
+    </div>
+  </div>
+  
