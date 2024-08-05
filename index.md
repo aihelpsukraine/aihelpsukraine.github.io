@@ -42,9 +42,9 @@ Hybrid participation format will be announced soon.
 
 ---
 
-# Our Sponsors
+<!-- # Our Sponsors -->
 
-{% include sponsor-gallery.html %}
+<!-- {% include sponsor-gallery.html %} -->
 
 ---
 
