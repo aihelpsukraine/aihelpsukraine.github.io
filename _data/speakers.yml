@@ -1,4 +1,4 @@
-- fullname: Branka Marijan
+- fullname: Branka Marijan (She/Her)
   affiliations: 
   - Ploughshares
   nametitle: Dr.
@@ -13,7 +13,7 @@
       link: https://www.ploughshares.ca/author/branka-marijan
   skip: True
 
-- fullname: Elina Noor
+- fullname: Elina Noor (She/Her)
   affiliations: 
   - Asia Program at Carnegie
   position: Senior Fellow
@@ -34,7 +34,7 @@
       link: https://www.asiapacific.ca/about-us/distinguished-fellows/elina-noor
   skip: False
 
-- fullname: Bernard Duhaime
+- fullname: Bernard Duhaime (He/Him)
   affiliations: 
   - Faculty of Law and Political Science
   - University of Quebec in Montreal
@@ -49,7 +49,7 @@
       link: https://professeurs.uqam.ca/professeur/duhaime.bernard/
   skip: True
 
-- fullname: Aaron Luttman
+- fullname: Aaron Luttman (He/Him)
   affiliations: 
   - Pacific Northwest National Laboratory
   position: Senior Technical Advisor
@@ -61,7 +61,7 @@
       link: https://www.pnnl.gov/people/aaron-luttman
   skip: False
 
-- fullname: Andrew W. Reddie
+- fullname: Andrew W. Reddie (He/Him)
   affiliations: 
   - Berkeley's Goldman School of Public Policy
   - University of California
@@ -76,7 +76,7 @@
       link: https://gspp.berkeley.edu/research-and-impact/faculty/andrew-reddie
   skip: False
 
-- fullname: Lode Dewaegheneire
+- fullname: Lode Dewaegheneire (He/Him)
   affiliations: 
   - University of Liège (Belgium)
   position: Fellow and Independent Expert
