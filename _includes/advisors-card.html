@@ -1,0 +1,41 @@
+
+<div class="columns container">
+    <div class="column is-one-fifth"></div>
+    <div class="column">
+      <div class="card">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-128x128">
+                {% if advisor.photo != "none" %}
+                <img src="assets/img/advisors/{{ advisor.photo }}" alt="{{ advisor.alttext }}">
+                {% endif %}
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="title is-4">{{ advisor.fullname }}</p>
+              <p class="subtitle is-6">{{ advisor.pronouns }}</p>
+              <p class="subtitle is-5">{{ advisor.affiliation }}</p>
+            </div>
+          </div>
+          <div class="content">
+            <p>{{ advisor.bio }}</p>
+            {% if advisor.email != "none" %}
+              <a class="tag">{{ advisor.email }}</a>
+            {% endif %}
+            {% if advisor.website != "none" %}
+              <a class="tag" href="{{ advisor.website }}">Website</a>
+            {% endif %}
+            {% if advisor.twitter != "none" %}
+              <a class="tag" href="{{ advisor.twitter }}">Twitter</a>
+            {% endif %}
+            {% if advisor.linkedin != "none" %}
+            <a class="tag" href="{{ advisor.linkedin }}">LinkedIn</a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      </div>
+    <div class="column is-one-fifth"></div>
+  </div>
+  
