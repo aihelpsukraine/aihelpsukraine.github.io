@@ -22,6 +22,10 @@ Workshop (in person): Saturday, July 29, 2022
 
 The workshop will be a hybrid worksop with the in person at [Mila Quebec AI Institute](https://mila.quebec/).
 
+LaTeX template: 
+<a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.tex">hraim_2024.tex</a>
+
+
 
 <!-- add instrcutions -->
 <!-- Please use the -->
