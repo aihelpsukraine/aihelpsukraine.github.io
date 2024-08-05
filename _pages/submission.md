@@ -4,54 +4,60 @@ title: Submission
 subtitle: Guidelines
 permalink: /submission
 ---
-### Important dates
+# Important Dates
 <!-- add Update dates -->
-Submission deadline: Monday, June 5, 2023 (23:59 GMT) June 8, 2023 (23:59 GMT)
+Paper submission deadline: Monday, September 9, 2024 (23:59 GMT)
 
-Submission site (OpenReview): ICML 2023 Workshop SODS
+Author notification: Monday, September 30, 2024
 
-Author notification: Monday, June 19, 2023
+Camera ready and video submissions deadline: Tuesday, November 19, 2024 (23:59 GMT)
 
-Camera ready deadline: Friday, July 14, 2023 (23:59 GMT)
-
-Workshop (in person): Saturday, July 29, 2022
+Workshop (hybrid): Monday, December 2, 2024 and Tuesday, December 3, 2024.
 
 ---
 
-### Instructions
-
-The workshop will be a hybrid worksop with the in person at [Mila Quebec AI Institute](https://mila.quebec/).
-
-LaTeX template: 
-<a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.tex">hraim_2024.tex</a>
-
-
+# Author Instructions
+Papers should be submitted to OpenReview. The submission link will be available soon.
 
 <!-- add instrcutions -->
 <!-- Please use the -->
-We welcome submissions regarding Harms and Risks of AI in military, including but not limited to:
+We welcome submissions regarding Harms and Risks of AI in the military, including but not limited to:
 
-- AI systems used for military purposes & surveillance 
+- AI systems used for military purposes and surveillance
 
-- Ethical & philosophical perspective on military use of AI research advances
+- Analysis of the impacts of autonomous weapons systems in different regions across the world
 
-- AI disarmament strategies and initiatives
+- Ethical and philosophical perspectives on the military use of AI
+
+- Impacts of military AI on human rights
+
+- Effects of AI militarization on marginalized communities and global inequalities
+
+- Implications of AI militarization on global security, arms races, escalation, and catastrophic risks
+
+- Quantitative risk management frameworks for military AI
 
 - Governance of AI in the military domain
 
 - Political advocacy for disarmament of AI technologies
 
-- Military AI and challenges for human rights
+- AI disarmament strategies and initiatives
 
-- Effects of AI militarisation on marginalized communities and global inequalities
+<!-- Authors of accepted papers are invited to present their work in the form of a poster during the workshop days or to submit a pre-recorded video -->
 
-- Implications of AI militarisation on global security, arms races, escalation, and catastrophic risks
+## Submission Format
+Submitted papers are recommended to have at most **4 pages** with unlimited bibliography and appendix. Below are the LaTeX template files:
 
-- Quantitative risk management frameworks
+- <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.tex">hraim_2024.tex</a> - LaTeX template
+- <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.sty">hraim_2024.sty</a> - LaTeX style file
+- <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.pdf">hraim_2024.pdf</a> - Example pdf file
 
-- Humanitarian consequences of AI militarisation. 
+The page limit is not hard, but keeping your paper reasonably short and concise can greatly improve readability. Submissions must be **anonymous** by using the default `\usepackage{hraim_2024}` command provided in the LaTeX template file. Accepted papers will be hosted on this workshop website but are considered non-archival and can be submitted to other workshops, conferences or journals if their submission policy allows.  
 
-- Threats to civilians in different regions across the world
+## Dual Submission Policy
+We allow dual submission with other workshops or conferences. You can also submit papers that have some overlaps with your recently published papers.
+
+---
 
 # Contact
 Should you have any questions, please reach out to us via email `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/harmsrisksaimilitary) for announcements.
