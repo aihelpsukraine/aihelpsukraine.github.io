@@ -23,7 +23,7 @@ Papers should be submitted to OpenReview. The submission link will be available 
 <!-- Please use the -->
 We welcome submissions regarding Harms and Risks of AI in the military, including but not limited to:
 
-- AI systems used for military purposes and surveillance
+- Capabilities of AI systems used for military purposes and surveillance
 
 - Analysis of the impacts of autonomous weapons systems in different regions across the world
 
@@ -42,6 +42,12 @@ We welcome submissions regarding Harms and Risks of AI in the military, includin
 - Political advocacy for disarmament of AI technologies
 
 - AI disarmament strategies and initiatives
+
+We will use the **double-blind** review process, with criteria including:
+- Relevance
+- Quality of the analysis presented
+- For papers with empirical results, quality of the methodology and experiments
+- Potential to lead to concrete and positive societal impacts
 
 <!-- Authors of accepted papers are invited to present their work in the form of a poster during the workshop days or to submit a pre-recorded video -->
 
