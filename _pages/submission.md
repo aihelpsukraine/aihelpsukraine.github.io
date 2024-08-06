@@ -6,9 +6,9 @@ permalink: /submission
 ---
 # Important Dates
 <!-- add Update dates -->
-- Paper submission deadline: Monday, September 9, 2024 (23:59 GMT)
+- Paper submission deadline: Monday, September 16, 2024 (23:59 GMT)
 
-- Author notification: Monday, September 30, 2024
+- Author notification: Monday, October 7, 2024
 
 - Camera ready deadline: Tuesday, November 19, 2024 (23:59 GMT)
 
