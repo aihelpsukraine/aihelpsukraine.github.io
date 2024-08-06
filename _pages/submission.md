@@ -10,7 +10,7 @@ permalink: /submission
 
 - Author notification: Monday, September 30, 2024
 
-- Camera ready and video submissions deadline: Tuesday, November 19, 2024 (23:59 GMT)
+- Camera ready deadline: Tuesday, November 19, 2024 (23:59 GMT)
 
 - Workshop (hybrid): Monday, December 2, 2024 and Tuesday, December 3, 2024.
 
