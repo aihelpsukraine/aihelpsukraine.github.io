@@ -16,8 +16,8 @@ permalink: /submission
 
 ---
 
-# Author Instructions
-Abstracts should be submitted to OpenReview. The submission link will be available soon. All Abstracts will be presented as posters. We will select some abstracts to give short contributed short talks. Virtual presentations will be allowed.
+# Author and Submission Instructions
+Submissions will be handled electronically via [OpenReview](https://openreview.net). You will be asked to create an OpenReview account if you do not already have one. All abstracts must be written in English. The submission link will be available soon. All Abstracts will be presented as posters. We will select some abstracts to give short contributed short talks. Virtual presentations will be allowed.
 
 <!-- add instrcutions -->
 <!-- Please use the -->
@@ -45,26 +45,30 @@ We welcome submissions regarding Harms and Risks of AI in the military, includin
 
 We will use the **double-blind** review process, with criteria including:
 - Relevance
-- Quality of the analysis presented
-- For abstracts with empirical results, quality of the methodology and experiments
 - Potential to lead to concrete and positive societal impacts
 
 <!-- Authors of accepted abstracts are invited to present their work in the form of a poster during the workshop days or to submit a pre-recorded video -->
 
 ## Submission Format
-Submitted abstracts are recommended to have at most **2 pages** with unlimited bibliography and appendix. Below are the LaTeX template files:
+Submitted abstracts should have at most **2 pages** with unlimited bibliography and appendix. Below are the LaTeX template files:
 
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.tex">hraim_2024.tex</a> - LaTeX template
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.sty">hraim_2024.sty</a> - LaTeX style file
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.pdf">hraim_2024.pdf</a> - Example pdf file
 
-The page limit is not hard, but keeping your abstract reasonably short and concise can greatly improve readability. Submissions must be **anonymous** by using the default `\usepackage{hraim_2024}` command provided in the LaTeX template file. Accepted abstracts will be hosted on this workshop website but are considered non-archival and can be submitted to other workshops, conferences or journals if their submission policy allows.  
+Submissions must be **anonymous** by using the default `\usepackage{hraim_2024}` command provided in the LaTeX template file. Reviews are double-blind: submissions revealing the authors’ identities will be automatically rejected. Accepted abstracts will be hosted on this workshop website but are considered non-archival and can be submitted to other workshops, conferences or journals if their submission policy allows.  
 
 ## Dual Submission Policy
-We allow dual submission with other workshops or conferences. You can also submit abstracts that have some overlaps with your recently published abstracts.
+We allow dual submission with other workshops or conferences. You can also submit abstracts that have some overlaps with your recently published abstracts. When citing your previous work, refrain from using ‘we’ or ‘our’. We accept previously published material (including pre-prints) but we ask you not to cite this material to maintain anonymity during the reviewing period. We also ask you to omit acknowledgments in your submission.
 
 ---
 
 # Contact
 Should you have any questions, please reach out to us via email `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/harmsrisksaimilitary) for announcements.
+
+
+
+<!-- Submissions will be handled electronically via the symposium’s CMT website: https://cmt3.research.microsoft.com/MAIS2024/. You will be asked to create a CMT account if you do not already have one. All abstracts must be written in English. -->
+
+<!-- To create a new submission, click on ‘Create new submission’. You will be asked to select your subject area and indicate your conflicts of interest as well as your preference for presentation format (short talk or poster).  Abstracts should be at most two pages in 10pt font, not including references.  -->
 
