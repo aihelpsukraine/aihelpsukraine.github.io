@@ -64,7 +64,7 @@ We allow dual submission with other workshops or conferences. You can also submi
 ---
 
 # Contact
-Should you have any questions, please reach out to us via email `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/harmsrisksaimilitary) for announcements.
+Should you have any questions, please reach out to us via email `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/HarmsRisksAIM) for announcements.
 
 
 

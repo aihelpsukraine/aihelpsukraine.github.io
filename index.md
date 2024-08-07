@@ -49,4 +49,4 @@ Hybrid participation format will be announced soon.
 ---
 
 # Contact
-If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/harmsrisksaimilitary) for announcements.
+If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/HarmsRisksAIM) for announcements.
