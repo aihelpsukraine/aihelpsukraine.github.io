@@ -1,6 +1,6 @@
 ---
 layout: page-floatbutton
-title: Submission
+title: Call for papers
 subtitle: Guidelines
 permalink: /submission
 ---
@@ -17,7 +17,7 @@ permalink: /submission
 ---
 
 # Author Instructions
-Papers should be submitted to OpenReview. The submission link will be available soon.
+Papers should be submitted to OpenReview. The submission link will be available soon. All papers will be presented as posters. We will select some papers to give short contributed talks. Virtual presentations will be allowed.
 
 <!-- add instrcutions -->
 <!-- Please use the -->

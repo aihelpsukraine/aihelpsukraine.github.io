@@ -5,7 +5,7 @@ permalink: /team
 ---
 
 # Organizers
-The Harms and Risks of AI in the Military workshop is organized by volunteer students and academics. These are the organizers (in random order):
+The Harms and Risks of AI in the Military workshop is organized by volunteers from different backgrounds. These are the organizers (in random order):
 
 {% assign people = site.data.team | sample: site.data.team.size %}
 {% for person in people %}
