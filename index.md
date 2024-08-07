@@ -5,7 +5,7 @@ subtitle: A cross-disciplinary workshop fostering an open and inclusive discussi
 toc: false
 ---
 
-Click on the bottom left button below if you want to join us **in person** or **virtually** on **Dec 2-3** at **Mila - Quebec AI Institute, Montreal**. Click on the right button if you would like to submit a paper to our workshop.
+Click on the bottom left button below if you want to join us **in person** or **virtually** on **Dec 2-3** at **Mila - Quebec AI Institute, Montreal**. Click on the right button if you would like to submit a abstract to our workshop.
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 

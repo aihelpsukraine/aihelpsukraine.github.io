@@ -1,12 +1,12 @@
 ---
 layout: page-floatbutton
-title: Call for papers
+title: Call for Abstracts
 subtitle: Guidelines
 permalink: /submission
 ---
 # Important Dates
 <!-- add Update dates -->
-- Paper submission deadline: Monday, September 16, 2024 (23:59 GMT)
+- Abstract submission deadline: Monday, September 16, 2024 (23:59 GMT)
 
 - Author notification: Monday, October 7, 2024
 
@@ -17,7 +17,7 @@ permalink: /submission
 ---
 
 # Author Instructions
-Papers should be submitted to OpenReview. The submission link will be available soon. All papers will be presented as posters. We will select some papers to give short contributed talks. Virtual presentations will be allowed.
+Abstracts should be submitted to OpenReview. The submission link will be available soon. All Abstracts will be presented as posters. We will select some abstracts to give short contributed short talks. Virtual presentations will be allowed.
 
 <!-- add instrcutions -->
 <!-- Please use the -->
@@ -46,22 +46,22 @@ We welcome submissions regarding Harms and Risks of AI in the military, includin
 We will use the **double-blind** review process, with criteria including:
 - Relevance
 - Quality of the analysis presented
-- For papers with empirical results, quality of the methodology and experiments
+- For abstracts with empirical results, quality of the methodology and experiments
 - Potential to lead to concrete and positive societal impacts
 
-<!-- Authors of accepted papers are invited to present their work in the form of a poster during the workshop days or to submit a pre-recorded video -->
+<!-- Authors of accepted abstracts are invited to present their work in the form of a poster during the workshop days or to submit a pre-recorded video -->
 
 ## Submission Format
-Submitted papers are recommended to have at most **4 pages** with unlimited bibliography and appendix. Below are the LaTeX template files:
+Submitted abstracts are recommended to have at most **2 pages** with unlimited bibliography and appendix. Below are the LaTeX template files:
 
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.tex">hraim_2024.tex</a> - LaTeX template
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.sty">hraim_2024.sty</a> - LaTeX style file
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.pdf">hraim_2024.pdf</a> - Example pdf file
 
-The page limit is not hard, but keeping your paper reasonably short and concise can greatly improve readability. Submissions must be **anonymous** by using the default `\usepackage{hraim_2024}` command provided in the LaTeX template file. Accepted papers will be hosted on this workshop website but are considered non-archival and can be submitted to other workshops, conferences or journals if their submission policy allows.  
+The page limit is not hard, but keeping your abstract reasonably short and concise can greatly improve readability. Submissions must be **anonymous** by using the default `\usepackage{hraim_2024}` command provided in the LaTeX template file. Accepted abstracts will be hosted on this workshop website but are considered non-archival and can be submitted to other workshops, conferences or journals if their submission policy allows.  
 
 ## Dual Submission Policy
-We allow dual submission with other workshops or conferences. You can also submit papers that have some overlaps with your recently published papers.
+We allow dual submission with other workshops or conferences. You can also submit abstracts that have some overlaps with your recently published abstracts.
 
 ---
 
