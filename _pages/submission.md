@@ -15,7 +15,7 @@ permalink: /submission
 ---
 
 # Author and Submission Instructions
-We invite you to submit extended abstracts for the opportunity to present a poster at the workshop. Submissions will be handled electronically via OpenReview (submission link will be available soon). You will be asked to create an OpenReview account if you do not already have one. All submissions must be written in English. Authors of the selected submissions will be invited to give a short talk.
+We invite you to submit extended abstracts for the opportunity to present a poster at the workshop. Submissions will be handled electronically via OpenReview. You will be asked to create an OpenReview account if you do not already have one. All submissions must be written in English. Authors of selected submissions will be invited to give a short talk.
 
 <!-- add instrcutions -->
 <!-- Please use the -->
@@ -44,6 +44,8 @@ We welcome posters related to Harms and Risks of AI in the military, including b
 We will use the **double-blind** review process, with criteria including:
 - Relevance
 - Potential to lead to concrete and positive societal impacts
+
+Submission portal: [OpenReview](https://openreview.net/group?id=harms-risks-ai-military.org/HRAIM/2024/Workshop)
 
 <!-- Authors of accepted abstracts are invited to present their work in the form of a poster during the workshop days or to submit a pre-recorded video -->
 
