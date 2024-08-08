@@ -15,7 +15,7 @@ permalink: /submission
 ---
 
 # Author and Submission Instructions
-We invite you to submit extended abstracts for the opportunity to present a poster at the workshop. Submissions will be handled electronically via OpenReview (submission link will be available soon). You will be asked to create an OpenReview account if you do not already have one. All submissions must be written in English. Authors of the selected submissions will be invited to give a short talk. Virtual presentations will be allowed.
+We invite you to submit extended abstracts for the opportunity to present a poster at the workshop. Submissions will be handled electronically via OpenReview (submission link will be available soon). You will be asked to create an OpenReview account if you do not already have one. All submissions must be written in English. Authors of the selected submissions will be invited to give a short talk.
 
 <!-- add instrcutions -->
 <!-- Please use the -->
