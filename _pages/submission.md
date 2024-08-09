@@ -47,6 +47,10 @@ We will use the **double-blind** review process, with criteria including:
 
 Submission portal: [OpenReview](https://openreview.net/group?id=harms-risks-ai-military.org/HRAIM/2024/Workshop)
 
+OpenReview’s moderation policy for newly created profiles:
+ - New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
+ - New profiles created with an institutional email will be activated automatically.
+
 <!-- Authors of accepted abstracts are invited to present their work in the form of a poster during the workshop days or to submit a pre-recorded video -->
 
 ## Submission Format
