@@ -13,6 +13,19 @@
       link: https://www.ploughshares.ca/author/branka-marijan
   skip: True
 
+- fullname: Sarah Grand-Clément (She/Her)
+  affiliations: 
+  - United Nations Institute for Disarmament Research (UNIDIR)
+  position: Researcher
+  bio: "Sarah Grand-Clément is a Researcher in the Security and Technology Programme and the Conventional Arms and Ammunition Programme of the United Nations Institute for Disarmament Research (UNIDIR). Her work examines the intersection of technology with conventional arms, exploring both the challenges and threats that technology can pose to international security, as well as the benefits it can bring to prevent violent conflict and enable peace. Sarah also has a particular interest in the use of futures methodologies as a way to help explore these complex policy issues, with expertise in horizon scanning, serious gaming and future scenarios. Prior to joining UNIDIR, Sarah was a Senior Analyst working on defence and security policy issues at RAND Europe. She holds an MSc in Arab World Studies from Durham University."
+  photo: Sarah_Grand_Clement.jpg
+  alttext: Sarah Grand-Clément
+  tags:
+    - name: Website
+      link: https://unidir.org/people/sarah-grand-clement/
+  skip: False
+
+
 - fullname: Elina Noor (She/Her)
   affiliations: 
   - Asia Program at Carnegie
