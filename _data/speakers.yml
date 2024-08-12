@@ -49,18 +49,15 @@
 
 - fullname: Bernard Duhaime (He/Him)
   affiliations: 
-  - Faculty of Law and Political Science
   - University of Quebec in Montreal
   position: Professor of International Law
-  bio: "He teaches international human rights law and the Inter-American System of Protection of Human Rights. He also serves
-  as a member of the Working group on enforced or involuntary disappearances reporting to the United Nations Human Rights
-  Council. Bernard is invited to give a talk on implications of military AI on human rights."
-  photo: bernard.jpg
+  bio: "As a professor of International Law, Bernard teaches international human rights law and the Inter-American System of Protection of Human Rights. He also serves as a member of the Working group on enforced or involuntary disappearances reporting to the United Nations Human Rights Council. Bernard Duhaime is a Fellow of the Pierre Elliott Trudeau Foundation (2017-2021). Previously, Duhaime was a lawyer at the Inter-American Commission on Human Rights of the OAS. He founded the Clinique Internationale de Défense des Droits Humains de l'UQAM and was its first director."
+  photo: bernard.png
   alttext: Prof. Bernard Duhaime
   tags:
     - name: Website
-      link: https://professeurs.uqam.ca/professeur/duhaime.bernard/
-  skip: True
+      link: https://www.humanrightsnetwork.org/bernard-duhaime
+  skip: False
 
 - fullname: Aaron Luttman (He/Him)
   affiliations: 
