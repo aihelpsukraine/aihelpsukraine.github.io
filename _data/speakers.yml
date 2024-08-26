@@ -17,8 +17,6 @@
     - name: Twitter
       link: https://twitter.com/timnitGebru
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/hDuFo
     - name: YouTube
       link: https://www.youtube.com/watch?v=QT1htqtkknA
   skip: False
@@ -47,8 +45,6 @@
     - name: Website
       link: https://yoshuabengio.org/
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/stAnz
     - name: YouTube
       link: https://www.youtube.com/watch?v=uOzCKnTDvqY
   skip: False
@@ -103,8 +99,6 @@
     - name: Twitter
       link: https://twitter.com/irinarish
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/IFnZG
     - name: YouTube
       link: https://youtu.be/Ufkg8dvpo7U
   skip: False
@@ -135,8 +129,6 @@
     - name: Twitter
       link: https://twitter.com/hannah_kerner
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/lQBtM
     - name: YouTube
       link: https://www.youtube.com/watch?v=31R25GYRILw
   skip: False
@@ -168,8 +160,6 @@
     - name: Twitter
       link: https://twitter.com/beckerinbal
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/lQBtM
     - name: YouTube
       link: https://www.youtube.com/watch?v=31R25GYRILw
   skip: False
@@ -201,8 +191,6 @@
     - name: Twitter
       link: https://twitter.com/wellingmax
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/tDUNm
     - name: YouTube
       link: https://www.youtube.com/watch?v=XG-Q7Rpybzo
   skip: False
@@ -233,8 +221,6 @@
     - name: Twitter
       link: https://twitter.com/BarzilayRegina
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/xywEP
     - name: YouTube
       link: https://www.youtube.com/watch?v=M_mZj7a5txI
   skip: False
@@ -266,8 +252,6 @@
     - name: Twitter
       link: https://twitter.com/david_rolnick
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/DxxTT
     - name: YouTube
       link: https://www.youtube.com/watch?v=TXPIEaszm0k
   skip: False
@@ -297,8 +281,6 @@
     - name: Twitter
       link: https://twitter.com/mmbronstein
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/bziaE
     - name: YouTube
       link: https://www.youtube.com/watch?v=cXYvEQnUkEI
   skip: False
@@ -324,8 +306,6 @@
     - name: Twitter
       link: https://twitter.com/volokuleshov
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/cQYHu
     - name: YouTube
       link: https://www.youtube.com/watch?v=PC1HcUGhBF0
   skip: False
@@ -355,8 +335,6 @@
     - name: Website
       link: https://people.eecs.berkeley.edu/~efros/
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/VkKnc
     - name: YouTube
       link: https://www.youtube.com/watch?v=O-QtrLn9Mf8
   skip: False
@@ -387,8 +365,6 @@
     - name: Twitter
       link: https://twitter.com/sarameghanbeery
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/AbxdC
     - name: YouTube
       link: https://www.youtube.com/watch?v=Z88q8JiS8Cc
   skip: False
@@ -422,9 +398,6 @@
   tags:
     - name: Website
       link: http://goldenberglab.ca/
-  streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Olga Russakovsky
