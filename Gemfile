@@ -20,6 +20,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-redirect-from'
 end
 
 # Theme: Bulma Clean Theme
@@ -27,4 +28,4 @@ gem "bulma-clean-theme"
 
 # Without this, running the website locally (bundle exec jekyll serve)
 # may fail with versions of ruby >= 3.0.0
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
