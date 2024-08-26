@@ -17,6 +17,7 @@ title: AI Helps Ukraine
 tagline: AI Helps Ukraine Charity Conference
 email: ai.helps.ukraine@mila.quebec
 twitter_username: alhelpsukraine
+github: [metadata]
 github_username: aihelpsukraine
 twitter:
   - username: alhelpsukraine
@@ -68,7 +69,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # Theme: Bulma Clean Theme
-# theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+# See: https://github.com/chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
